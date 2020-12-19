@@ -1,9 +1,9 @@
 # Lido Protocol Audits
 
-## 12-2020 Sigma Prime Security Assesment
+## 12-2020 Sigma Prime Security Assessment
 
 The testing team identified a total of eighteen (18) issues during this assessment, of which:
-- Five (5) are classified as medium risk (4 resolved, 1 cosed), 
+- Five (5) are classified as medium risk (4 resolved, 1 closed), 
 - Eight (8) are classified as low risk (4 resolved, 3 closed, 1 open),
 - Five (5) are classified as informational (2 resolved, 3 closed).
 
