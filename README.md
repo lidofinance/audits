@@ -12,7 +12,7 @@ See [full report](Sigma%20Prime%20-%20Lido%20Finance%20Security%20Assessment%20R
 
 ## 12-2020 Quantstamp Audit
  
-- Toal Issues: 14 (7 Resolved)
+- Total Issues: 14 (7 Resolved)
 - High Risk Issues: 0 (0 Resolved)
 - Medium Risk Issues: 1 (0 Resolved)
 - Low Risk Issues: 4 (3 Resolved)  
