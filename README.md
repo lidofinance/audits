@@ -42,3 +42,14 @@ See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021
 - Comment Risk Issues: 5 (3 Fixed, 1 No issue, 1 Acknowledged)
 
 See [full report](MixBytes%20stETH%20price%20oracle%20Security%20Audit%20Report%2005-2021.pdf) for more details.
+
+
+## 06-2021 MixBytes stETH Price Feed Security Audit
+
+- Total Issues: 10 (3 Fixed, 6 No issue, 1 Acknowledged)
+- Critical Issues: 0 (0 Fixed)
+- Major Issues: 0 (0 Fixed)
+- Warning Issues: 4 (1 Fixed, 2 No issue, 1 Acknowledged)
+- Comment Risk Issues: 6 (2 Fixed, 4 No issue)
+
+See [full report](MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%2006-2021.pdf) for more details.
