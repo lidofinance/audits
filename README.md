@@ -43,6 +43,16 @@ See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021
 
 See [full report](MixBytes%20stETH%20price%20oracle%20Security%20Audit%20Report%2005-2021.pdf) for more details.
 
+## 05-2021 MixBytes Audit: Withdrawals Manager Proxy and Stub
+
+- Total Issues: 1 (1 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 0
+- Comment Risk Issues: 1 (1 Fixed)
+
+See [full report](MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report%2005-2021.pdf) for more details.
+
 
 ## 06-2021 MixBytes stETH Price Feed Security Audit
 
