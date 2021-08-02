@@ -63,3 +63,14 @@ See [full report](MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20R
 - Comment Risk Issues: 6 (2 Fixed, 4 No issue)
 
 See [full report](MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%2006-2021.pdf) for more details.
+
+
+## 08-2021 MixBytes bETH Vault Security Audit
+
+- Total Issues: 5 (3 Fixed, 2 Acknowledged)
+- Critical Issues: 0 (0 Fixed)
+- Major Issues: 0 (0 Fixed)
+- Warning Issues: 1 (1 Acknowledged)
+- Comment Risk Issues: 4 (3 Fixed, 1 Acknowledged)
+
+See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report.pdf) for more details.
