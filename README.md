@@ -25,8 +25,8 @@ See [full report](QSP%20Lido%20Report%2012-2020.pdf) for more details.
 ## 04-2021 MixBytes Audit: ETH2 Oracle
 
 - Total Issues: 7 (1 Fixed, 6 No issue)
-- Critical Issues: 0 (0 Fixed)
-- Major Issues: 0 (0 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
 - Warning Issues: 4 (4 No issue)
 - Comment Risk Issues: 3 (1 Fixed, 2 No issue)
 
@@ -36,8 +36,8 @@ See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021
 ## 05-2021 MixBytes Audit: stETH price oracle
 
 - Total Issues: 7 (4 Fixed, 1 No issue, 2 Acknowledged)
-- Critical Issues: 0 (0 Fixed)
-- Major Issues: 0 (0 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
 - Warning Issues: 2 (1 Fixed, 1 Acknowledged)
 - Comment Risk Issues: 5 (3 Fixed, 1 No issue, 1 Acknowledged)
 
@@ -57,20 +57,33 @@ See [full report](MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20R
 ## 06-2021 MixBytes stETH Price Feed Security Audit
 
 - Total Issues: 10 (3 Fixed, 6 No issue, 1 Acknowledged)
-- Critical Issues: 0 (0 Fixed)
-- Major Issues: 0 (0 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
 - Warning Issues: 4 (1 Fixed, 2 No issue, 1 Acknowledged)
 - Comment Risk Issues: 6 (2 Fixed, 4 No issue)
 
 See [full report](MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%2006-2021.pdf) for more details.
 
 
-## 08-2021 MixBytes bETH Vault Security Audit
+## 07-2021 MixBytes bETH Vault Security Audit
 
 - Total Issues: 5 (3 Fixed, 2 Acknowledged)
-- Critical Issues: 0 (0 Fixed)
-- Major Issues: 0 (0 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
 - Warning Issues: 1 (1 Acknowledged)
 - Comment Risk Issues: 4 (3 Fixed, 1 Acknowledged)
 
-See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report.pdf) for more details.
+See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2007-2021.pdf) for more details.
+
+
+## 08-2021 MixBytes bETH Vault Security Audit
+
+bETH Vault was re-audited by MixBytes to incorporate the changes made since the previous audit.
+
+- Total Issues: 0
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 0
+- Comment Risk Issues: 0
+
+See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.pdf) for more details.
