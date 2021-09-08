@@ -87,3 +87,14 @@ bETH Vault was re-audited by MixBytes to incorporate the changes made since the 
 - Comment Risk Issues: 0
 
 See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.pdf) for more details.
+
+
+## 09-2021 MixBytes wstETH Security Audit
+
+- Total Issues: 5 (3 Acknowledged, 2 No Issue)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 5 (3 Acknowledged, 2 No Issue)
+- Comment Risk Issues: 0
+
+See [full report](MixBytes%20wstETH%20Security%20Audit%20Report%2009-2021) for more details.
