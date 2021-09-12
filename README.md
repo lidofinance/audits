@@ -98,3 +98,14 @@ See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.
 - Comment Risk Issues: 0
 
 See [full report](MixBytes%20wstETH%20Security%20Audit%20Report%2009-2021) for more details.
+
+
+## 09-2021 MixBytes Easy Track Security Audit
+
+- Total Issues: 3 (2 Fixed, 1 No Issue)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 2 (2 Fixed)
+- Comment Risk Issues: 1 (1 No Issue)
+
+See [full report](MixBytes%20Easy%20Track%20Security%20Audit%20Report%2009-2021.pdf) for more details.
