@@ -109,3 +109,13 @@ See [full report](MixBytes%20wstETH%20Security%20Audit%20Report%2009-2021.pdf) f
 - Comment Risk Issues: 1 (1 No Issue)
 
 See [full report](MixBytes%20Easy%20Track%20Security%20Audit%20Report%2009-2021.pdf) for more details.
+
+## 09-2021 MixBytes 1inch Rewards Manager Security Audit
+
+- Total Issues: 4 (4 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 2 (2 Acknowledged)
+- Comment Risk Issues: 2 (2 Acknowledged)
+
+See [full report](MixBytes%201inch%20Rewards%20Manager%20Security%20Audit%20Report%2009-21.pdf) for more details.
