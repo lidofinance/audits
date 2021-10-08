@@ -119,3 +119,15 @@ See [full report](MixBytes%20Easy%20Track%20Security%20Audit%20Report%2009-2021.
 - Comment Risk Issues: 2 (2 Acknowledged)
 
 See [full report](MixBytes%201inch%20Rewards%20Manager%20Security%20Audit%20Report%2009-21.pdf) for more details.
+
+## 10-2021 MixBytes Aragon Voting Security Audit
+
+The version of the [Aragon Voting smart contract](https://github.com/lidofinance/aragon-apps/blob/8c46da8704d0011c42ece2896dbf4aeee069b84a/apps/voting/contracts/Voting.sol) with support of the voting time change.
+
+- Total Issues: 9 (9 Acknowledged)
+- Critical Issues: 0 (0 Fixed)
+- Major Issues: 1 (1 Acknowledged)
+- Warning Issues: 4 (4 Acknowledged)
+- Comment Risk Issues: 4 (4 Acknowledged)
+
+See [full report](MixBytes%20Aragon%20Voting%20Security%20Audit%20Report%2010-2021.pdf) for more details.
