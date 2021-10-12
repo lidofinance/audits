@@ -131,3 +131,12 @@ The version of the [Aragon Voting smart contract](https://github.com/lidofinance
 - Comment Risk Issues: 4 (4 Acknowledged)
 
 See [full report](MixBytes%20Aragon%20Voting%20Security%20Audit%20Report%2010-2021.pdf) for more details.
+
+## 10-2021 Sigma Prime Easy Track Smart Contract Security Review
+
+The testing team identified a total of nine (9) issues during this assessment, of which:
+- One (1) is classified as high risk (1 resolved),
+- Three (3) are classified as low risk (3 resolved),
+- Five (5) are classified as informational (3 resolved, 2 closed).
+
+See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf) for more details.
