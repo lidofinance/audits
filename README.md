@@ -139,4 +139,16 @@ The testing team identified a total of nine (9) issues during this assessment, o
 - Three (3) are classified as low risk (3 resolved),
 - Five (5) are classified as informational (3 resolved, 2 closed).
 
-See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf) for more details.
+See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf) for more details.  
+
+## 12-2021 Quantstamp stETH AAVE integration Security Assessment Report   
+
+- Total issues: 6 (5 Resolved)
+- High Risk Issues: 0
+- Medium Risk Issues: 3 (3 Resolved)
+- Low Risk Issues: 2 (2 Resolved)
+- Informational Risk Issues: 1 (0 Resolved)
+- Undetermined Risk Issues: 0
+
+See [full certificate](Quantstamp%20stETH%20Aave%20Integration%20Security%20Assessment%20Report%2012-2021.pdf) for more details.  
+Please note, the current version of certificate includes outdated contract hashes, it will be replaced as soon as Quantstamp provides the updated report.
