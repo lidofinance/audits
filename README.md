@@ -152,3 +152,15 @@ See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20S
 
 See [full certificate](Quantstamp%20stETH%20Aave%20Integration%20Security%20Assessment%20Report%2012-2021.pdf) for more details.  
 Please note, the current version of certificate includes outdated contract hashes, it will be replaced as soon as Quantstamp provides the updated report.
+
+## 01-2022 MixBytes bETH Vault Security Audit Report
+
+bETH Vault was re-audited by MixBytes to incorporate the changes made for the vault to work with Wormhole bridge instead of the Shuttle bridge.
+
+- Total Issues: 5 (3 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 1 (1 Acknowledged)
+- Warning Issues: 4 (4 Acknowledged)
+- Comment Risk Issues: 2 (2 Acknowledged)
+
+See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2001-2022.pdf) for more details.
