@@ -139,7 +139,7 @@ The testing team identified a total of nine (9) issues during this assessment, o
 - Three (3) are classified as low risk (3 resolved),
 - Five (5) are classified as informational (3 resolved, 2 closed).
 
-See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf) for more details.  
+See [full report](Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf) for more details.
 
 ## 01-2022 MixBytes bETH Vault Security Audit Report
 
@@ -153,12 +153,22 @@ bETH Vault was re-audited by MixBytes to incorporate the changes made for the va
 
 See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2001-2022.pdf) for more details.
 
-## 02-2022 MixBytes AAVE stETH integration Security Audit Report  
+## 02-2022 MixBytes AAVE stETH integration Security Audit Report
 
 - Total Issues: 11 (3 Fixed, 2 Acknowledged)
 - Critical Issues: 0
 - Major Issues: 1 (1 Fixed)
 - Warning Issues: 5 (2 Acknowledged, 3 Fixed)
-- Comment Risk Issues: 5 (1 Acknowledged, 4 Fixed)  
+- Comment Risk Issues: 5 (1 Acknowledged, 4 Fixed)
 
 See [full report](MixBytes%20AAVE%20stETH%20integration%20Security%20Audit%20Report%2002-22.pdf) for more details.
+
+## 02-2022 MixBytes In-protocol Coverage Security Audit Report
+
+- Total Issues: 3 (3 Fixed)
+- Critical Issues: 1 (1 Fixed)
+- Major Issues: 0
+- Warning Issues: 1 (1 Fixed)
+- Comment Risk Issues: 1 (1 Fixed)
+
+See [full report](MixBytes%20In-protocol%20Coverage%20Security%20Audit%20Report%2002-2022.pdf) for more details.
