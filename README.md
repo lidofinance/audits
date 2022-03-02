@@ -172,3 +172,13 @@ See [full report](MixBytes%20AAVE%20stETH%20integration%20Security%20Audit%20Rep
 - Comment Risk Issues: 1 (1 Fixed)
 
 See [full report](MixBytes%20In-protocol%20Coverage%20Security%20Audit%20Report%2002-2022.pdf) for more details.
+
+## 02-2022 MixBytes Deposit Security Module Security Audit Report
+
+- Total Issues: 22 (17 Fixed, 5 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 2 (2 Fixed)
+- Warning Issues: 13 (5 Acknowledged, 8 Fixed)
+- Comment Risk Issues: 7 (7 Fixed)
+
+See [full report](MixBytes%20Deposit%20Security%20Module%20Security%20Audit%20Report%2002-2022.pdf) for more details.
