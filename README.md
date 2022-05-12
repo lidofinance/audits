@@ -182,3 +182,13 @@ See [full report](MixBytes%20In-protocol%20Coverage%20Security%20Audit%20Report%
 - Comment Risk Issues: 7 (7 Fixed)
 
 See [full report](MixBytes%20Deposit%20Security%20Module%20Security%20Audit%20Report%2002-2022.pdf) for more details.
+
+## 05-2022 Oxorio Jumpgate Smart Contracts Security Audit Report
+
+- Total Issues: 12 (11 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 1 (1 Fixed)
+- Warning Issues: 2 (2 Fixed)
+- Comment Risk Issues: 9 (8 Fixed, 1 Acknowledged)
+
+See [full report](Oxorio%Jumpgate%Smart%Contracts%Security%Audit%Report%05-2022.pdf) for more details.
