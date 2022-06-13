@@ -192,3 +192,13 @@ See [full report](MixBytes%20Deposit%20Security%20Module%20Security%20Audit%20Re
 - Comment Risk Issues: 9 (8 Fixed, 1 Acknowledged)
 
 See [full report](Oxorio%Jumpgate%Smart%Contracts%Security%Audit%Report%05-2022.pdf) for more details.
+
+## 05-2022 MixBytes Lido Protocol Security Audit Report
+
+- Total Issues: 15 (13 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 7 (6 Fixed)
+- Low Issues: 7 (6 Fixed)
+
+See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) for more details.
