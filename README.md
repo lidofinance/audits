@@ -198,7 +198,7 @@ See [full report](Oxorio%Jumpgate%Smart%Contracts%Security%Audit%Report%05-2022.
 - Total Issues: 15 (13 Fixed, 2 Acknowledged)
 - Critical Issues: 0
 - High Issues: 1 (1 Fixed)
-- Medium Issues: 7 (6 Fixed)
-- Low Issues: 7 (6 Fixed)
+- Medium Issues: 7 (6 Fixed, 1 Acknowledged)
+- Low Issues: 7 (6 Fixed, 1 Acknowledged)
 
 See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) for more details.
