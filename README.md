@@ -202,3 +202,13 @@ See [full report](Oxorio%Jumpgate%Smart%Contracts%Security%Audit%Report%05-2022.
 - Low Issues: 7 (6 Fixed, 1 Acknowledged)
 
 See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) for more details.
+
+## 06-2022 MixBytes Lido Two-Phase Voting Security Audit Report
+
+- Total Issues: 10 (7 Fixed, 3 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Acknowledged)
+- Low Issues: 9 (7 Fixed, 2 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf) for more details
