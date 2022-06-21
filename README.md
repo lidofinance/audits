@@ -211,4 +211,4 @@ See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) 
 - Medium Issues: 1 (1 Acknowledged)
 - Low Issues: 9 (7 Fixed, 2 Acknowledged)
 
-See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf) for more details
+See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf) for more details
