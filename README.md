@@ -212,3 +212,13 @@ See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) 
 - Low Issues: 9 (7 Fixed, 2 Acknowledged)
 
 See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf) for more details
+
+## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
+
+- Total Issues: 9 (6 Fixed, 2 Acknowledged, 1 No Issue)
+- Critical Issues: 1 (1 Acknowledged)
+- Major Issues: 1 (1 Fixed)
+- Warning Issues: 1 (1 Fixed)
+- Info Issues: 6 (4 Fixed, 1 Acknowledged, 1 No Issue)
+
+See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf) for more details
