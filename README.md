@@ -3,12 +3,12 @@
 ## 12-2020 Sigma Prime Security Assessment
 
 The testing team identified a total of eighteen (18) issues during this assessment, of which:
+
 - Five (5) are classified as medium risk (4 resolved, 1 closed),
 - Eight (8) are classified as low risk (4 resolved, 3 closed, 1 open),
 - Five (5) are classified as informational (2 resolved, 3 closed).
 
 See [full report](Sigma%20Prime%20-%20Lido%20Finance%20Security%20Assessment%20Report%20v2.1.pdf) for more details.
-
 
 ## 12-2020 Quantstamp Audit
 
@@ -21,7 +21,6 @@ See [full report](Sigma%20Prime%20-%20Lido%20Finance%20Security%20Assessment%20R
 
 See [full report](QSP%20Lido%20Report%2012-2020.pdf) for more details.
 
-
 ## 04-2021 MixBytes Audit: ETH2 Oracle
 
 - Total Issues: 7 (1 Fixed, 6 No issue)
@@ -31,7 +30,6 @@ See [full report](QSP%20Lido%20Report%2012-2020.pdf) for more details.
 - Comment Risk Issues: 3 (1 Fixed, 2 No issue)
 
 See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021.pdf) for more details.
-
 
 ## 05-2021 MixBytes Audit: stETH price oracle
 
@@ -53,7 +51,6 @@ See [full report](MixBytes%20stETH%20price%20oracle%20Security%20Audit%20Report%
 
 See [full report](MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report%2005-2021.pdf) for more details.
 
-
 ## 06-2021 MixBytes stETH Price Feed Security Audit
 
 - Total Issues: 10 (3 Fixed, 6 No issue, 1 Acknowledged)
@@ -64,7 +61,6 @@ See [full report](MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20R
 
 See [full report](MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%2006-2021.pdf) for more details.
 
-
 ## 07-2021 MixBytes bETH Vault Security Audit
 
 - Total Issues: 5 (3 Fixed, 2 Acknowledged)
@@ -74,7 +70,6 @@ See [full report](MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%20
 - Comment Risk Issues: 4 (3 Fixed, 1 Acknowledged)
 
 See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2007-2021.pdf) for more details.
-
 
 ## 08-2021 MixBytes bETH Vault Security Audit
 
@@ -88,7 +83,6 @@ bETH Vault was re-audited by MixBytes to incorporate the changes made since the 
 
 See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.pdf) for more details.
 
-
 ## 09-2021 MixBytes wstETH Security Audit
 
 - Total Issues: 5 (3 Acknowledged, 2 No Issue)
@@ -98,7 +92,6 @@ See [full report](MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.
 - Comment Risk Issues: 0
 
 See [full report](MixBytes%20wstETH%20Security%20Audit%20Report%2009-2021.pdf) for more details.
-
 
 ## 09-2021 MixBytes Easy Track Security Audit
 
@@ -135,6 +128,7 @@ See [full report](MixBytes%20Aragon%20Voting%20Security%20Audit%20Report%2010-20
 ## 10-2021 Sigma Prime Easy Track Smart Contract Security Review
 
 The testing team identified a total of nine (9) issues during this assessment, of which:
+
 - One (1) is classified as high risk (1 resolved),
 - Three (3) are classified as low risk (3 resolved),
 - Five (5) are classified as informational (3 resolved, 2 closed).
@@ -222,3 +216,18 @@ See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Repo
 - Info Issues: 6 (4 Fixed, 1 Acknowledged, 1 No Issue)
 
 See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf) for more details
+
+## 08-2022 ChainSecurity Code Assessment of the Lido Smart Contracts Audit Report
+
+- Total Issues: 9 (4 Risk accepted, 5 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 9 (4 Risk accepted, 5 Acknowledged)
+- Notes: 2 (Highlights)
+
+See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20Contracts%20Report%2008-22.pdf) for more details
+
+## 08-2022 MixBytes Lido Protocol Security Auditor's Note On The Deployed Code Compliance
+
+See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) contents for more details
