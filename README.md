@@ -231,3 +231,13 @@ See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20
 ## 08-2022 MixBytes Lido Protocol Security Auditor's Note On The Deployed Code Compliance
 
 See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) contents for more details
+
+## 08-2022 Oxorio Governance Crosschain Bridges Smart Contracts Security Audit Report
+
+- Total Issues: 8 (8 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 2 (2 Acknowledged)
+- Info Issues: 6 (6 Acknowledged)
+
+See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts%20Security%20Audit%20Report%2008-2022.pdf) for more details
