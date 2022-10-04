@@ -251,3 +251,13 @@ See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts
 - Informational Issues: 7 (5 Fixed, 2 Acknowledged)
 
 See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details
+
+## 09-2022 StateMind Insurance Fund Audit Report
+
+- Total Issues: 4 (1 Fixed, 3 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Informational Issues: 4 (1 Fixed, 3 Acknowledged)
+
+See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2010-2022.pdf) for more details
