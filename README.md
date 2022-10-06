@@ -260,4 +260,4 @@ See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Aud
 - Medium Issues: 0
 - Informational Issues: 4 (1 Fixed, 3 Acknowledged)
 
-See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2010-2022.pdf) for more details
+See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf) for more details
