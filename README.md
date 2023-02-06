@@ -271,3 +271,13 @@ See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pd
 - Informational Issues: 8 (8 Acknowledged)
 
 See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details
+
+## 02-2023 ChainSecurity Lido Staking Router Audit Report
+
+- Total Issues: 13 (10 Fixed, 3 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 2 (2 Fixed)
+- Informational Issues: 10 (7 Fixed, 3 Acknowledged)
+
+See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-23.pdf) for more details
