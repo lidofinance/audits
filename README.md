@@ -272,6 +272,16 @@ See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pd
 
 See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details
 
+## 01-2023 StateMind TRP Vesting Escrow Audit Report
+
+- Total Issues: 5 (4 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Informational Issues: (4 Fixed, 1 Acknowledged)
+
+See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf) for more details
+
 ## 02-2023 ChainSecurity Lido Staking Router Audit Report
 
 - Total Issues: 13 (10 Fixed, 3 Acknowledged)
