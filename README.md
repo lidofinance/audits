@@ -291,3 +291,14 @@ See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.
 - Informational Issues: 10 (7 Fixed, 3 Acknowledged)
 
 See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-23.pdf) for more details
+
+## 03-2023 Sigma Prime dc4bc Security Audit
+
+- Total Issues: 8 (8 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 3 (3 Fixed)
+- Low Issues: 2 (2 Fixed)
+- Informational Issues: 3 (3 Fixed)
+
+See [full report](Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.0%2003-2023.pdf) for more details
