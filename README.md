@@ -301,4 +301,4 @@ See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-
 - Low Issues: 2 (2 Fixed)
 - Informational Issues: 3 (3 Fixed)
 
-See [full report](Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.0%2003-2023.pdf) for more details
+See [full report](Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.1%2003-2023.pdf) for more details. The report updated on 05 March 2023 with build hashes.
