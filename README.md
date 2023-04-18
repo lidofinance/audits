@@ -302,3 +302,14 @@ See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-
 - Informational Issues: 3 (3 Fixed)
 
 See [full report](Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.2%2003-2023.pdf) for more details. The report had been updated on 14 March 2023 with the build hashes of 4.1.0 release.
+
+## 04-2023 Hexens Lido V2 Smart Contract Audit
+
+- Total Issues: 25 (16 Fixed, 9 Acknowledged)
+- Critical Issues: 1 (1 Fixed)
+- High Issues: 3 (3 Fixed)
+- Medium Issues: 5 (4 Fixed, 1 Acknowledged)
+- Low Issues: 11 (6 Fixed, 5 Acknowledged)
+- Informational Issues: 5 (2 Fixed, 3 Acknowledged)
+
+See [full report](Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23.pdf) for more details
