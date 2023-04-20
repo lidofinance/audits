@@ -205,7 +205,7 @@ See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) 
 - Medium Issues: 1 (1 Acknowledged)
 - Low Issues: 9 (7 Fixed, 2 Acknowledged)
 
-See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf) for more details
+See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf) for more details.
 
 ## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
 
@@ -215,7 +215,7 @@ See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Repo
 - Warning Issues: 1 (1 Fixed)
 - Info Issues: 6 (4 Fixed, 1 Acknowledged, 1 No Issue)
 
-See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf) for more details
+See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf) for more details.
 
 ## 08-2022 ChainSecurity Code Assessment of the Lido Smart Contracts Audit Report
 
@@ -226,7 +226,7 @@ See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Re
 - Low Issues: 9 (4 Risk accepted, 5 Acknowledged)
 - Notes: 2 (Highlights)
 
-See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20Contracts%20Report%2008-22.pdf) for more details
+See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20Contracts%20Report%2008-22.pdf) for more details.
 
 ## 08-2022 MixBytes Lido Protocol Security Auditor's Note On The Deployed Code Compliance
 
@@ -240,7 +240,7 @@ See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) cont
 - Warning Issues: 2 (2 Acknowledged)
 - Info Issues: 6 (6 Acknowledged)
 
-See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts%20Security%20Audit%20Report%2008-2022.pdf) for more details
+See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts%20Security%20Audit%20Report%2008-2022.pdf) for more details.
 
 ## 09-2022 StateMind MEV-Boost relay allowlist Security Audit Report
 
@@ -250,7 +250,7 @@ See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts
 - Medium Issues: 0
 - Informational Issues: 7 (5 Fixed, 2 Acknowledged)
 
-See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details
+See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details.
 
 ## 09-2022 StateMind Insurance Fund Audit Report
 
@@ -260,7 +260,7 @@ See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Aud
 - Medium Issues: 0
 - Informational Issues: 4 (1 Fixed, 3 Acknowledged)
 
-See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf) for more details
+See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf) for more details.
 
 ## 09-2022 StateMind Easy Track Payment Processor with limits
 
@@ -270,7 +270,7 @@ See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pd
 - Medium Issues: 0
 - Informational Issues: 8 (8 Acknowledged)
 
-See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details
+See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details.
 
 ## 01-2023 StateMind TRP Vesting Escrow Audit Report
 
@@ -280,7 +280,7 @@ See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20li
 - Medium Issues: 0
 - Informational Issues: (4 Fixed, 1 Acknowledged)
 
-See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf) for more details
+See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf) for more details.
 
 ## 02-2023 ChainSecurity Lido Staking Router Audit Report
 
@@ -290,7 +290,7 @@ See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.
 - Medium Issues: 2 (2 Fixed)
 - Informational Issues: 10 (7 Fixed, 3 Acknowledged)
 
-See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-23.pdf) for more details
+See [full report](ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-23.pdf) for more details.
 
 ## 03-2023 Sigma Prime dc4bc Security Audit
 
@@ -312,4 +312,14 @@ See [full report](Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%2
 - Low Issues: 11 (6 Fixed, 5 Acknowledged)
 - Informational Issues: 5 (2 Fixed, 3 Acknowledged)
 
-See [full report](Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23.pdf) for more details
+See [full report](Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23.pdf) for more details.
+
+## 04-2023 MixBytes Camp Lido V2 Contest
+
+- Total Issues: 17 (8 Fixed, 9 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Acknowledged)
+- Medium Issues: 3 (1 Fixed, 2 Acknowledged)
+- Low Issues: 13 (7 Fixed, 6 Acknowledged)
+
+See [full report](MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf) for more details.
