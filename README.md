@@ -322,4 +322,4 @@ See [full report](Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23
 - Medium Issues: 3 (1 Fixed, 2 Acknowledged)
 - Low Issues: 13 (7 Fixed, 6 Acknowledged)
 
-See [full report](MixBytes-contest-report/MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf) for more details.
+See [full report](MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf) for more details.
