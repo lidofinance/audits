@@ -323,3 +323,14 @@ See [full report](Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23
 - Low Issues: 13 (7 Fixed, 6 Acknowledged)
 
 See [full report](MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf) for more details.
+
+## 04-2023 StateMind GateSeals Audit
+
+- Total Issues: 4 (3 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 0
+- Low Issues: 0
+- Informational Issues: 3 (2 Fixed, 1 Acknowledged)
+
+See [full report](Statemind%20GateSeals%20Audit%20Report%2004-2023.pdf) for more details.
