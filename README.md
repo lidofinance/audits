@@ -334,3 +334,14 @@ See [full report](MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf) fo
 - Informational Issues: 3 (2 Fixed, 1 Acknowledged)
 
 See [full report](Statemind%20GateSeals%20Audit%20Report%2004-2023.pdf) for more details.
+
+## 04-2023 Certora Lido V2 Audit
+
+- Total Issues: 23 (14 Fixed, 9 Acknowledged)
+- Critical Issues: 2 (2 Fixed)
+- High Issues: 5 (1 Fixed, 4 Acknowledged)
+- Medium Issues: 10 (7 Fixed, 3 Acknowledged)
+- Low Issues: 5 (3 Fixed, 2 Acknowledged)
+- Informational Issues: 1 (1 Fixed)
+
+See [full report](Certora%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
