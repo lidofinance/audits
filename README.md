@@ -345,3 +345,13 @@ See [full report](Statemind%20GateSeals%20Audit%20Report%2004-2023.pdf) for more
 - Informational Issues: 1 (1 Fixed)
 
 See [full report](Certora%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
+
+## 04-2023 StateMind Lido V2 Audit
+
+- Total Issues: 120 (75 Fixed, 45 Acknowledged)
+- Critical Issues: 2 (1 Fixed, 1 Acknowledged)
+- High Issues: 8 (6 Fixed, 2 Acknowledged)
+- Medium Issues: 17 (9 Fixed, 8 Acknowledged)
+- Informational Issues: 93 (59 Fixed, 34 Acknowledged)
+
+See [full report](StateMind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
