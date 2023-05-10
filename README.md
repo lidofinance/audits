@@ -355,3 +355,17 @@ See [full report](Certora%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more det
 - Informational Issues: 93 (59 Fixed, 34 Acknowledged)
 
 See [full report](StateMind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
+
+## 05-2023 StateMind Lido V2 Upgrade Template Audit
+
+- Total Issues: 14 (7 Fixed, 7 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Informational Issues: 14 (7 Fixed, 7 Acknowledged)
+
+See [full report](StateMind%20Lido%20V2%20Upgrade%20Template%20Audit%20Report%2005-2023.pdf) for more details.
+
+## 05-2023 StateMind Lido V2 Deployment Validation Note
+
+See [note](StateMind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf) contents for more details.
