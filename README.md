@@ -250,7 +250,7 @@ See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts
 - Medium Issues: 0
 - Informational Issues: 7 (5 Fixed, 2 Acknowledged)
 
-See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details.
+See [full report](Statemind%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details.
 
 ## 09-2022 Statemind Insurance Fund Audit Report
 
@@ -260,7 +260,7 @@ See [full report](StateMind%20-%20MEV-Boost%20relay%20allowlist%20Security%20Aud
 - Medium Issues: 0
 - Informational Issues: 4 (1 Fixed, 3 Acknowledged)
 
-See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf) for more details.
+See [full report](Statemind%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf) for more details.
 
 ## 09-2022 Statemind Easy Track Payment Processor with limits
 
@@ -270,7 +270,7 @@ See [full report](StateMind%20-%20Insurance%20Fund%20Audit%20Report%2009-2022.pd
 - Medium Issues: 0
 - Informational Issues: 8 (8 Acknowledged)
 
-See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details.
+See [full report](Statemind%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf) for more details.
 
 ## 01-2023 Statemind TRP Vesting Escrow Audit Report
 
@@ -280,7 +280,7 @@ See [full report](StateMind%20-%20Easy%20Track%20Payment%20Processor%20with%20li
 - Medium Issues: 0
 - Informational Issues: (4 Fixed, 1 Acknowledged)
 
-See [full report](StateMind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf) for more details.
+See [full report](Statemind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf) for more details.
 
 ## 02-2023 ChainSecurity Lido Staking Router Audit Report
 
@@ -354,7 +354,7 @@ See [full report](Certora%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more det
 - Medium Issues: 17 (9 Fixed, 8 Acknowledged)
 - Informational Issues: 93 (59 Fixed, 34 Acknowledged)
 
-See [full report](StateMind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
+See [full report](Statemind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
 
 ## 05-2023 Statemind Lido V2 Upgrade Template Audit
 
@@ -364,8 +364,8 @@ See [full report](StateMind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more d
 - Medium Issues: 0
 - Informational Issues: 14 (7 Fixed, 7 Acknowledged)
 
-See [full report](StateMind%20Lido%20V2%20Upgrade%20Template%20Audit%20Report%2005-2023.pdf) for more details.
+See [full report](Statemind%20Lido%20V2%20Upgrade%20Template%20Audit%20Report%2005-2023.pdf) for more details.
 
 ## 05-2023 Statemind Lido V2 Deployment Validation Note
 
-See [note](StateMind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf) contents for more details.
+See [note](Statemind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf) contents for more details.
