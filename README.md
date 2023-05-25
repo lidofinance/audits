@@ -369,3 +369,14 @@ See [full report](Statemind%20Lido%20V2%20Upgrade%20Template%20Audit%20Report%20
 ## 05-2023 Statemind Lido V2 Deployment Validation Note
 
 See [note](Statemind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf) contents for more details.
+
+## 05-2023 Hexens Lido V2 Oracle Security Review
+
+- Total Issues: 2 (2 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+- Informational Issues: 1 (1 Fixed)
+
+See [full report](Hexens%20Lido%20V2%20Oracle%20Security%20Review%20Report%2005-23.pdf) for more details.
