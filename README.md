@@ -381,7 +381,7 @@ See [note](Statemind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf) conten
 
 See [full report](Hexens%20Lido%20V2%20Oracle%20Security%20Review%20Report%2005-23.pdf) for more details.
 
-## 06-2023 Oxorio Lido V2 On-chain Audit
+## 05-2023 Oxorio Lido V2 On-chain Audit
 
 - Total Issues: 43 (4 Fixed, 37 Acknowledged, 2 No Issue)
 - Critical: 0
@@ -391,7 +391,7 @@ See [full report](Hexens%20Lido%20V2%20Oracle%20Security%20Review%20Report%2005-
 
 See [full report](Oxorio%20Lido%20V2%20On-chain%20Audit%20Report%2006-23.pdf) for more details.
 
-## 06-2023 Oxorio Lido V2 Off-chain Audit
+## 05-2023 Oxorio Lido V2 Off-chain Audit
 
 - Total Issues: 11 (1 Fixed, 10 Acknowledged)
 - Critical: 0
