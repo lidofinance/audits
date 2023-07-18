@@ -185,7 +185,7 @@ See [full report](MixBytes%20Deposit%20Security%20Module%20Security%20Audit%20Re
 - Warning Issues: 0
 - Info Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
 
-See [full report](audits/polygon/Oxorio%Lido%on%Polygon%pr69%report%04-2022.pdf) for more details.
+See [full report](polygon/Oxorio%Lido%on%Polygon%pr69%report%04-2022.pdf) for more details.
 
 ## 05-2022 Oxorio Jumpgate Smart Contracts Security Audit Report
 
@@ -260,7 +260,7 @@ See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts
 - Warning Issues: 14
 - Info Issues: 93
 
-See [full report](audits/polygon/Oxorio%Lido%on%Polygon%V2%08-2022.pdf) for more details.
+See [full report](polygon/Oxorio%Lido%on%Polygon%V2%08-2022.pdf) for more details.
 
 ## 09-2022 Statemind MEV-Boost relay allowlist Security Audit Report
 
