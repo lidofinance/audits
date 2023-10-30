@@ -420,3 +420,13 @@ See [full report](Oxorio%20Lido%20V2%20On-chain%20Audit%20Report%2006-23.pdf) fo
 - Info: 4 (4 Acknowledged)
 
 See [full report](Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf) for more details.
+
+## 10-2023 Oxorio Lido Easy Track Smart Contracts Security Audit (Easy Track Factories for Stablecoins)
+
+- Total Issues: 9 (5 Fixed, 4 Acknowledged)
+- Critical: 0
+- Major: 0
+- Warning: 2 (1 Fixed, 1 Acknowledged)
+- Info: 7 (4 Fixed, 3 Acknowledged)
+
+See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20Audit%20Report%2010-2023.pdf) for more details.
