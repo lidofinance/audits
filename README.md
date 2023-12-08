@@ -430,3 +430,13 @@ See [full report](Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf) f
 - Info: 7 (4 Fixed, 3 Acknowledged)
 
 See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20Audit%20Report%2010-2023.pdf) for more details.
+
+## 12-2023 Pessimistic Lido Stonks Audit
+
+- Total Issues: 9 (5 Fixed, 4 Acknowledged)
+- Critical: 0
+- Medium: 2 (1 Fixed, 1 Acknowledged)
+- Low: 3 (3 Fixed)
+- Notes: 3 (3 Acknowledged)
+
+See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for more details.
