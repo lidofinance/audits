@@ -433,7 +433,7 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 
 ## 12-2023 Pessimistic Lido Stonks Audit
 
-- Total Issues: 9 (5 Fixed, 4 Acknowledged)
+- Total Issues: 8 (4 Fixed, 4 Acknowledged)
 - Critical: 0
 - Medium: 2 (1 Fixed, 1 Acknowledged)
 - Low: 3 (3 Fixed)
