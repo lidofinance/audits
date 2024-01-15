@@ -217,16 +217,6 @@ See [full report](MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf) 
 
 See [full report](MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf) for more details.
 
-## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
-
-- Total Issues: 9 (6 Fixed, 2 Acknowledged, 1 No Issue)
-- Critical Issues: 1 (1 Acknowledged)
-- Major Issues: 1 (1 Fixed)
-- Warning Issues: 1 (1 Fixed)
-- Info Issues: 6 (4 Fixed, 1 Acknowledged, 1 No Issue)
-
-See [full report](Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf) for more details.
-
 ## 08-2022 ChainSecurity Code Assessment of the Lido Smart Contracts Audit Report
 
 - Total Issues: 9 (4 Risk accepted, 5 Acknowledged)
@@ -241,16 +231,6 @@ See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20
 ## 08-2022 MixBytes Lido Protocol Security Auditor's Note On The Deployed Code Compliance
 
 See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) contents for more details
-
-## 08-2022 Oxorio Governance Crosschain Bridges Smart Contracts Security Audit Report
-
-- Total Issues: 8 (8 Acknowledged)
-- Critical Issues: 0
-- Major Issues: 0
-- Warning Issues: 2 (2 Acknowledged)
-- Info Issues: 6 (6 Acknowledged)
-
-See [full report](Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts%20Security%20Audit%20Report%2008-2022.pdf) for more details.
 
 ## 08-2022 Oxorio Lido on Polygon V2
 
@@ -440,3 +420,72 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 - Notes: 3 (3 Acknowledged)
 
 See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for more details.
+
+# L2 audit reports
+
+## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
+
+- Total Issues: 9 (6 Fixed, 2 Acknowledged, 1 No Issue)
+- Critical Issues: 1 (1 Acknowledged)
+- Major Issues: 1 (1 Fixed)
+- Warning Issues: 1 (1 Fixed)
+- Info Issues: 6 (4 Fixed, 1 Acknowledged, 1 No Issue)
+
+See [full report](L2/Lido-L2-2022-07-Oxorio-Smart-Contracts-Security-Audit-Report.pdf) for more details.
+
+## 08-2022 Oxorio Governance Crosschain Bridges Smart Contracts Security Audit Report
+
+- Total Issues: 8 (8 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 2 (2 Acknowledged)
+- Info Issues: 6 (6 Acknowledged)
+
+See [full report](L2/Governance-Crosschain-Bridges-2022-08-Oxorio-Audit%20Report.pdf) for more details.
+
+## 09-2023 Verilog Mantle L2 ERC20 Token Bridge Audit Report
+
+- Total Issues: 5 (3 Fixed, 2 Acknowledged)
+- High: 0
+- Medium: 0
+- Low: 2 (2 Acknowledged)
+- Informational: 3 (3 Fixed)
+
+See [full report](L2/Mantle-2023-09-Verilog-L2-ERC20-Token-Bridge-Audit-Report.pdf) for more details.
+
+## 10-2023 Cantina zkSync Lido Bridge Audit Report
+
+- Total Issues: 33 (20 Fixed, 3 Partially fixed)
+- Critical Issues: 1 (1 Fixed)
+- High Issues: 0
+- Medium Issues: 5 (3 Fixed, 2 No Issue)
+- Low Issues: 8 (4 Fixed, 2 No Issue, 2 Acknowledged)
+- Info Issues: 8 (7 Fixed, 1 Acknowledged)
+
+See [full report](L2/zkSync-2023-10-Cantina-Audit-Report.pdf) for more details.
+
+## 10-2023 Diligence Linea Cross‐Chain Governance Executor Audit Report
+
+- Total Issues: 0
+
+See [full report](L2/Linea-2023-10-Diligence-Cross-Chain-Governance-Executor-Audit-Report.pdf) for more details.
+
+## 12-2023 Diligence Linea Custom Bridged Token Audit Report
+
+- Total Issues: 1 (1 Fixed)
+- Informational: 1 (1 Fixed)
+
+See [full report](L2/Lidea-2023-12-Diligence-Custom-Bridged-Token-Audit-Report.pdf) for more details.
+
+## 12-2023 OpenZeppelin Linea Bridge Audit Report
+
+NB, that in this report the most of the contracts and issues are related not to wstETH bridge but to the entire Linea L2 system.
+
+- Total Issues: 33 (20 Fixed, 3 Partially fixed)
+- Critical Issues: 1 (1 Fixed)
+- High Issues: 3 (1 Fixed, 2 Acknowledged)
+- Medium Issues: 1 (1 Resolved)
+- Low Issues: 9 (2 Acknowledged)
+- Info Issues: 13 (6 Acknowledged)
+
+See [full report](L2/Linea-2023-12-OpenZeppelin-Bridge-Audit-Report.pdf) for more details.
