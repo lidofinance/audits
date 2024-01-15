@@ -421,6 +421,16 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 
 See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for more details.
 
+## 01-2024 Statemind Lido Simple DVT Easy Track Factories Audit
+
+- Total Issues: 10 (7 Fixed, 3 Acknowledged)
+- Critical: 0
+- High: 0
+- Medium: 0
+- Informational: 10 (7 Fixed, 3 Acknowledged)
+
+See [full report](Statemind%20Lido%20Simple%20DVT%20Easy%20Track%20Factories%20Audit%20Report%2001-24.pdf) for more details.
+
 # L2 audit reports
 
 ## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
