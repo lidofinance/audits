@@ -431,6 +431,8 @@ See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for 
 
 See [full report](Statemind%20Lido%20Simple%20DVT%20Easy%20Track%20Factories%20Audit%20Report%2001-24.pdf) for more details.
 
+---
+
 # L2 audit reports
 
 ## 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
@@ -465,7 +467,7 @@ See [full report](L2/Mantle-2023-09-Verilog-L2-ERC20-Token-Bridge-Audit-Report.p
 
 ## 10-2023 Cantina zkSync Lido Bridge Audit Report
 
-- Total Issues: 33 (20 Fixed, 3 Partially fixed)
+- Total Issues: 22 (15 Fixed, 3 Acknowledged, 4 No issue)
 - Critical Issues: 1 (1 Fixed)
 - High Issues: 0
 - Medium Issues: 5 (3 Fixed, 2 No Issue)
@@ -476,26 +478,26 @@ See [full report](L2/zkSync-2023-10-Cantina-Audit-Report.pdf) for more details.
 
 ## 10-2023 Diligence Linea Cross‐Chain Governance Executor Audit Report
 
-- Total Issues: 0
+- Total Issues: 1 (1 Fixed)
+- Informational: 1 (1 Fixed)
 
 See [full report](L2/Linea-2023-10-Diligence-Cross-Chain-Governance-Executor-Audit-Report.pdf) for more details.
 
 ## 12-2023 Diligence Linea Custom Bridged Token Audit Report
 
-- Total Issues: 1 (1 Fixed)
-- Informational: 1 (1 Fixed)
+- Total Issues: 0
 
 See [full report](L2/Lidea-2023-12-Diligence-Custom-Bridged-Token-Audit-Report.pdf) for more details.
 
 ## 12-2023 OpenZeppelin Linea Bridge Audit Report
 
-NB, that in this report the most of the contracts and issues are related not to wstETH bridge but to the entire Linea L2 system.
+>NB: the most of the contracts and issues are related not to wstETH bridge but to the entire Linea L2 system.
 
 - Total Issues: 33 (20 Fixed, 3 Partially fixed)
 - Critical Issues: 1 (1 Fixed)
 - High Issues: 3 (1 Fixed, 2 Acknowledged)
 - Medium Issues: 1 (1 Resolved)
-- Low Issues: 9 (2 Acknowledged)
-- Info Issues: 13 (6 Acknowledged)
+- Low Issues: 9 (4 Fixed, 1 Partially fixed, 4 Acknowledged)
+- Info Issues: 19 (13 Fixed, 2 Partially fixed, 4 Acknowledged)
 
 See [full report](L2/Linea-2023-12-OpenZeppelin-Bridge-Audit-Report.pdf) for more details.
