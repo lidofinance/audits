@@ -401,6 +401,18 @@ See [full report](Oxorio%20Lido%20V2%20On-chain%20Audit%20Report%2006-23.pdf) fo
 
 See [full report](Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf) for more details.
 
+## 10-2023 Statemind Lido roles analysis
+
+Impact severity \ Attack complexity | Low | Medium | High
+------------------------------------|-----|--------|-----
+Critical                            | 0   | 5      | 56
+High                                | 1   | 1      | 71
+Medium                              | 0   | 12     | 33
+Low                                 | 0   | 6      | 0
+No impact                           | 0   | 0      | 2
+
+See [full report](Statemind%20Lido%20roles%20analysis%2010-2023.pdf) for more details.
+
 ## 10-2023 Oxorio Lido Easy Track Smart Contracts Security Audit (Easy Track Factories for Stablecoins)
 
 - Total Issues: 9 (5 Fixed, 4 Acknowledged)
