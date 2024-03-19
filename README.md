@@ -423,16 +423,6 @@ See [full report](Statemind%20Lido%20roles%20analysis%2010-2023.pdf) for more de
 
 See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20Audit%20Report%2010-2023.pdf) for more details.
 
-## 12-2023 Pessimistic Lido Stonks Audit
-
-- Total Issues: 8 (4 Fixed, 4 Acknowledged)
-- Critical: 0
-- Medium: 2 (1 Fixed, 1 Acknowledged)
-- Low: 3 (3 Fixed)
-- Notes: 3 (3 Acknowledged)
-
-See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for more details.
-
 ## 01-2024 Statemind Lido Simple DVT Easy Track Factories Audit
 
 - Total Issues: 10 (7 Fixed, 3 Acknowledged)
@@ -442,6 +432,17 @@ See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for 
 - Informational: 10 (7 Fixed, 3 Acknowledged)
 
 See [full report](Statemind%20Lido%20Simple%20DVT%20Easy%20Track%20Factories%20Audit%20Report%2001-24.pdf) for more details.
+
+## 02-2024 Ackee Blockchain Lido Stonks Audit
+
+- Total Issues: 9 (7 Fixed, 2 Acknowledged)
+- Critical: 0
+- High: 0
+- Medium: 1 (1 Fixed)
+- Warning: 4 (2 Fixed, 2 Acknowledged)
+- Informational: 4 (4 Fixed)
+
+See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pdf) for more details.
 
 ---
 
