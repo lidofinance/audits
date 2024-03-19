@@ -425,6 +425,7 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 
 ## 12-2023 Pessimistic Lido Stonks Audit
 
+This audit report covers the code up to commit [`ad6a9e83c095f5052e404bc13585ad2c752f242f`](https://github.com/lidofinance/stonks/tree/ad6a9e83c095f5052e404bc13585ad2c752f242f). For release version audit please go to [03-2024 Ackee Blockchain Lido Stonks Audit](#03-2024-ackee-blockchain-lido-stonks-audit).
 - Total Issues: 8 (4 Fixed, 4 Acknowledged)
 - Critical: 0
 - Medium: 2 (1 Fixed, 1 Acknowledged)
@@ -442,6 +443,17 @@ See [full report](Pessimistic%20Lido%20Stonks%20Audit%20Report%2012-23.pdf) for 
 - Informational: 10 (7 Fixed, 3 Acknowledged)
 
 See [full report](Statemind%20Lido%20Simple%20DVT%20Easy%20Track%20Factories%20Audit%20Report%2001-24.pdf) for more details.
+
+## 03-2024 Ackee Blockchain Lido Stonks Audit
+
+- Total Issues: 9 (7 Fixed, 2 Acknowledged)
+- Critical: 0
+- High: 0
+- Medium: 1 (1 Fixed)
+- Warning 4 (2 Fixed, 2 Acknowledged)
+- Informational: 4 (4 Fixed)
+
+See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pdf) for more details.
 
 ---
 
