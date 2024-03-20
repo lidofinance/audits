@@ -515,7 +515,7 @@ See [full report](L2/Lidea-2023-12-Diligence-Custom-Bridged-Token-Audit-Report.p
 
 ## 12-2023 OpenZeppelin Linea Bridge Audit Report
 
->NB: the most of the contracts and issues are related not to wstETH bridge but to the entire Linea L2 system.
+> NB: the most of the contracts and issues are related not to wstETH bridge but to the entire Linea L2 system.
 
 - Total Issues: 33 (20 Fixed, 3 Partially fixed)
 - Critical Issues: 1 (1 Fixed)
@@ -525,3 +525,10 @@ See [full report](L2/Lidea-2023-12-Diligence-Custom-Bridged-Token-Audit-Report.p
 - Info Issues: 19 (13 Fixed, 2 Partially fixed, 4 Acknowledged)
 
 See [full report](L2/Linea-2023-12-OpenZeppelin-Bridge-Audit-Report.pdf) for more details.
+
+## 01-2024 Zellic Scroll Lido Gateway Audit Report
+
+- Total Issues: 1 (1 No Issue)
+- Info Issues: 1 (1 No Issue)
+
+See [full report](L2/Scroll-2024-01-Lido-Gateway-Zellic-Audit-Report.pdf) for more details.
