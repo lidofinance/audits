@@ -455,6 +455,10 @@ See [full report](Statemind%20Lido%20Simple%20DVT%20Easy%20Track%20Factories%20A
 
 See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pdf) for more details.
 
+## 04-2024 Statemind GateSeal Deployment Validation Note
+
+See [note](Statemind%20GateSeal%20Deployment%20Validation%2004-2024.pdf) contents for more details.
+
 ---
 
 # L2 audit reports
