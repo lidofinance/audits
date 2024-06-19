@@ -536,3 +536,15 @@ See [full report](L2/Linea-2023-12-OpenZeppelin-Bridge-Audit-Report.pdf) for mor
 - Info Issues: 1 (1 No Issue)
 
 See [full report](L2/Scroll-2024-01-Lido-Gateway-Zellic-Audit-Report.pdf) for more details.
+
+## 06-2024 Ackee Blockchain stETH on Optimism Audit Report
+
+- Total Issues: 15 (10 Fixed, 5 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Fixed)
+- Warning Issues: 8 (4 Fixed, 4 Acknowledged)
+- Info Issues: 5 (4 Fixed, 1 Acknowledged)
+
+See [full report](L2/stETH-on-Optimism-2024-06-Ackee-Blockchain-Audit-report.pdf) for more details.
