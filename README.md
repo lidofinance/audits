@@ -558,4 +558,4 @@ See [full report](L2/stETH-on-Optimism-2024-06-Ackee-Blockchain-Audit-report.pdf
 - Low Issues: 2 (2 Fixed)
 - Info Issues: 1 (1 Fixed)
 
-See [full report](LIP-23-Rebase-Check-Smart-Contracts-Audit-Report.pdf) for more details.
+See [full report](ChainSecurity%20Code%20Assessment%20of%20LIP-23%20Negative%20Rebase%20Checks%20Smart%20Contracts%2006-24.pdf) for more details.
