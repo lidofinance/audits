@@ -548,3 +548,13 @@ See [full report](L2/Scroll-2024-01-Lido-Gateway-Zellic-Audit-Report.pdf) for mo
 - Info Issues: 5 (4 Fixed, 1 Acknowledged)
 
 See [full report](L2/stETH-on-Optimism-2024-06-Ackee-Blockchain-Audit-report.pdf) for more details.
+
+## 06-2024 MixBytes stETH on Optimism Audit Report
+
+- Total Issues: 20 (15 Fixed, 5 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 18 (13 Fixed, 5 Acknowledged)
+
+See [full report](L2/stETH-on-Optimism-2024-06-MixBytes-Audit-report.pdf) for more details.
