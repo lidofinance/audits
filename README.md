@@ -557,4 +557,4 @@ See [full report](L2/stETH-on-Optimism-2024-06-Ackee-Blockchain-Audit-report.pdf
 - Medium Issues: 1 (1 Fixed)
 - Low Issues: 18 (13 Fixed, 5 Acknowledged)
 
-See [full report](L2/stETH-on-Optimism-2024-06-MixBytes-Audit-report.pdf) for more details.
+See [full report](L2/stETH-on-Optimism-2024-06-MixBytes-Audit-Report.pdf) for more details.
