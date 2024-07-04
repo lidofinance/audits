@@ -459,6 +459,16 @@ See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pd
 
 See [note](Statemind%20GateSeal%20Deployment%20Validation%2004-2024.pdf) contents for more details.
 
+## 07-2024 MixBytes Lido a.DI Audit Report
+
+- Total Issues: 13 (13 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Acknowledged)
+- Low Issues: 11 (11 Acknowledged)
+
+See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-2024.pdf) for more details.
+
 ---
 
 # L2 audit reports
