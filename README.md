@@ -469,6 +469,17 @@ See [note](Statemind%20GateSeal%20Deployment%20Validation%2004-2024.pdf) content
 
 See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-2024.pdf) for more details.
 
+## 06-2024 ChainSecurity Code Assessment of the LIP-23: Rebase Check Smart Contracts
+
+- Total Issues: 3 (3 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Fixed)
+- Info Issues: 1 (1 Fixed)
+
+See [full report](ChainSecurity%20Code%20Assessment%20of%20LIP-23%20Negative%20Rebase%20Checks%20Smart%20Contracts%2006-24.pdf) for more details.
+
 ---
 
 # L2 audit reports
@@ -569,13 +580,8 @@ See [full report](L2/stETH-on-Optimism-2024-06-Ackee-Blockchain-Audit-report.pdf
 
 See [full report](L2/stETH-on-Optimism-2024-06-MixBytes-Audit-Report.pdf) for more details.
 
-## 06-2024 ChainSecurity Code Assessment of the LIP-23: Rebase Check Smart Contracts
+## 07-2024 Cantina wstETH on Mode Verification Report
 
-- Total Issues: 3 (3 Fixed)
-- Critical Issues: 0
-- High Issues: 0
-- Medium Issues: 0
-- Low Issues: 2 (2 Fixed)
-- Info Issues: 1 (1 Fixed)
+The deployed contracts are verified against the [wstETH on Base](https://docs.lido.fi/deployed-contracts/#base) deployment.
 
-See [full report](ChainSecurity%20Code%20Assessment%20of%20LIP-23%20Negative%20Rebase%20Checks%20Smart%20Contracts%2006-24.pdf) for more details.
+See [full report](L2/Mode-2024-07-18-Cantina-wstETH-deployment-verification.pdf) for more details.
