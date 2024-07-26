@@ -459,7 +459,7 @@ See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pd
 
 See [note](Statemind%20GateSeal%20Deployment%20Validation%2004-2024.pdf) contents for more details.
 
-## 07-2024 MixBytes Lido a.DI Audit Report
+## 07-2024 MixBytes Lido a.DI Audit
 
 - Total Issues: 13 (13 Acknowledged)
 - Critical Issues: 0
@@ -479,6 +479,26 @@ See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-20
 - Info Issues: 1 (1 Fixed)
 
 See [full report](ChainSecurity%20Code%20Assessment%20of%20LIP-23%20Negative%20Rebase%20Checks%20Smart%20Contracts%2006-24.pdf) for more details.
+
+## 07-2024 Ackee Blockchain Audit of the Simple Delegation
+
+- Total Issues: 14 (6 Fixed, 8 Acknowledged)
+- High Issues: 0
+- Medium Issues: 0
+- Warning Issues: 10 (3 Fixed, 7 Acknowledged)
+- Info Issues: 4 (3 Fixed, 1 Acknowledged)
+
+See [full report](Ackee%20Blockchain%20Lido%20Simple%20Delegation%20audit%20report%2007-24.pdf) for more details.
+
+## 07-2024 Statemind Audit of the Simple Delegation
+
+- Total Issues: 6 (2 Fixed, 4 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Info Issues: 6 (2 Fixed, 4 Acknowledged)
+
+See [full report](Statemind%20Lido%20Simple%20Delegation%20audit%20report%2007-24.pdf) for more details.
 
 ---
 
