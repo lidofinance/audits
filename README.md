@@ -459,16 +459,6 @@ See [full report](Ackee%20Blockchain%20Lido%20Stonks%20Audit%20Report%2003-24.pd
 
 See [note](Statemind%20GateSeal%20Deployment%20Validation%2004-2024.pdf) contents for more details.
 
-## 07-2024 MixBytes Lido a.DI Audit
-
-- Total Issues: 13 (13 Acknowledged)
-- Critical Issues: 0
-- High Issues: 0
-- Medium Issues: 2 (2 Acknowledged)
-- Low Issues: 11 (11 Acknowledged)
-
-See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-2024.pdf) for more details.
-
 ## 06-2024 ChainSecurity Code Assessment of the LIP-23: Rebase Check Smart Contracts
 
 - Total Issues: 3 (3 Fixed)
@@ -605,3 +595,21 @@ See [full report](L2/stETH-on-Optimism-2024-06-MixBytes-Audit-Report.pdf) for mo
 The deployed contracts are verified against the [wstETH on Base](https://docs.lido.fi/deployed-contracts/#base) deployment.
 
 See [full report](L2/Mode-2024-07-18-Cantina-wstETH-deployment-verification.pdf) for more details.
+
+# BSC audit reports
+
+## 07-2024 MixBytes Lido a.DI Audit
+
+- Total Issues: 13 (13 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Acknowledged)
+- Low Issues: 11 (11 Acknowledged)
+
+See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-2024.pdf) for more details.
+
+## 08-2024 Oxorio wstETH on BNB Verification report
+
+The deployed contracts are verified in accordance to the [proposal](https://research.lido.fi/t/wormhole-x-axelar-lido-bridge-implementation-for-wsteth-on-bnb-chain/6012)
+
+See [full report](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report.pdf) for more details.
