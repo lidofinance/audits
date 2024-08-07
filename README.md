@@ -490,6 +490,16 @@ See [full report](Ackee%20Blockchain%20Lido%20Simple%20Delegation%20audit%20repo
 
 See [full report](Statemind%20Lido%20Simple%20Delegation%20audit%20report%2007-24.pdf) for more details.
 
+## 07-2024 MixBytes Sanity Checker Security Audit (LIP-23)
+
+- Total Issues: 8 (4 Fixed, 4 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 8 (4 Fixed, 4 Acknowledged)
+
+See [full report](Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf) for more details.
+
 ---
 
 # L2 audit reports
