@@ -498,7 +498,7 @@ See [full report](Statemind%20Lido%20Simple%20Delegation%20audit%20report%2007-2
 - Medium Issues: 0
 - Low Issues: 8 (4 Fixed)
 
-See [full report](Lido Sanity Checker Security Audit Report.pdf) for more details.
+See [full report](Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf) for more details.
 
 ---
 
