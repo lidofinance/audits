@@ -622,4 +622,4 @@ See [full report](bsc/MixBytes%20Lido%20a.DI%20Security%20Audit%20Report%2007-20
 
 The deployed contracts are verified in accordance to the [proposal](https://research.lido.fi/t/wormhole-x-axelar-lido-bridge-implementation-for-wsteth-on-bnb-chain/6012)
 
-See [full report](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report.pdf) for more details.
+See full [initial](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report.pdf) and [remediated](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report-remediated.pdf) reports for more details.
