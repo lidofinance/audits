@@ -524,6 +524,26 @@ See [full report](Ackee%20Blockchain%20Lido%20Staking%20Router%20v2%20Report%201
 
 See [full report](Ackee%20Blockchain%20Lido%20Community%20Staking%20Module%20Report%2010-24.pdf) for more details.
 
+## 10-2024 MixBytes On-chain Audit of Community Staking Module (LIP-23, LIP-25, LIP-26)
+
+- Total Issues: 41 (18 Fixed, 23 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 10 (4 Fixed, 6 Acknowledged)
+- Low Issues: 31 (14 Fixed, 17 Acknowledged)
+
+See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2010-24.pdf) for more details.
+
+## 10-2024 MixBytes Off-chain Audit of Lido Oracle v4
+
+- Total Issues: 3 (2 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 3 (2 Fixed, 1 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.pdf) for more details.
+
 ---
 
 # L2 audit reports
