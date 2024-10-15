@@ -500,6 +500,30 @@ See [full report](Statemind%20Lido%20Simple%20Delegation%20audit%20report%2007-2
 
 See [full report](Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf) for more details.
 
+## 10-2024 Ackee Blockchain Audit of Staking Router v2 (LIP-25)
+
+- Total Issues: 7 (5 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 3 (3 Fixed)
+- Warning Issues: 2 (2 Acknowledged)
+- Info Issues: 2 (2 Fixed)
+
+See [full report](Ackee%20Blockchain%20Lido%20Staking%20Router%20v2%20Report%2010-24.pdf) for more details.
+
+## 10-2024 Ackee Blockchain Audit of Community Staking Module (LIP-26)
+
+- Total Issues: 39 (25 Fixed, 2 Partially fixed, 12 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 8 (5 Fixed, 3 Acknowledged)
+- Warning Issues: 16 (10 Fixed, 1 Partially fixed, 5 Acknowledged)
+- Info Issues: 14 (9 Fixed, 1 Partially fixed, 4 Acknowledged)
+
+See [full report](Ackee%20Blockchain%20Lido%20Community%20Staking%20Module%20Report%2010-24.pdf) for more details.
+
 ---
 
 # L2 audit reports
