@@ -1,0 +1,39 @@
+{
+  "name": "audits",
+  "version": "1.0.0",
+  "description": "Lido smart contract audits",
+  "scripts": {
+    "prepare": "husky",
+    "lint:check": "eslint --max-warnings=0 .",
+    "lint:format": "eslint --max-warnings=0 --fix .",
+    "prettier:check": "prettier . --check",
+    "prettier:format": "prettier . --write"
+  },
+  "lint-staged": {
+    "./**/*.md": [
+      "prettier --write",
+      "eslint --max-warnings=0"
+    ]
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "npm@10.9.0",
+  "keywords": [
+    "audits",
+    "lido",
+    "security",
+    "smart",
+    "contracts"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0",
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.3.3",
+    "eslint-plugin-mdx": "^3.1.5"
+  },
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/lidofinance/audits#readme"
+}

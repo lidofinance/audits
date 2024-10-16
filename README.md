@@ -403,13 +403,13 @@ See [full report](Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf) f
 
 ## 10-2023 Statemind Lido roles analysis
 
-Impact severity \ Attack feasibility | Low | Medium | High
--------------------------------------|-----|--------|-----
-Critical                             | 56  | 5      | 0
-High                                 | 71  | 1      | 1
-Medium                               | 33  | 12     | 0
-Low                                  | 0   | 6      | 0
-No impact                            | 2   | 0      | 0
+| Impact severity \ Attack feasibility | Low | Medium | High |
+| ------------------------------------ | --- | ------ | ---- |
+| Critical                             | 56  | 5      | 0    |
+| High                                 | 71  | 1      | 1    |
+| Medium                               | 33  | 12     | 0    |
+| Low                                  | 0   | 6      | 0    |
+| No impact                            | 2   | 0      | 0    |
 
 See [full report](Statemind%20Lido%20roles%20analysis%2010-2023.pdf) for more details.
 
@@ -426,6 +426,7 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 ## 12-2023 Pessimistic Lido Stonks Audit
 
 This audit report covers the code up to commit [`ad6a9e83c095f5052e404bc13585ad2c752f242f`](https://github.com/lidofinance/stonks/tree/ad6a9e83c095f5052e404bc13585ad2c752f242f). For release version audit please go to [03-2024 Ackee Blockchain Lido Stonks Audit](#03-2024-ackee-blockchain-lido-stonks-audit).
+
 - Total Issues: 8 (4 Fixed, 4 Acknowledged)
 - Critical: 0
 - Medium: 2 (1 Fixed, 1 Acknowledged)

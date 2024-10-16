@@ -1,0 +1,8 @@
+.gitignore
+.prettierignore
+
+eslint.config.mjs
+commitlint.config.ts
+
+package-lock.json
+*.pdf
