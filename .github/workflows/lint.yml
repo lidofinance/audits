@@ -1,0 +1,39 @@
+name: Linters
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    name: ESLint
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Enable corepack
+        shell: bash
+        run: corepack enable
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        shell: bash
+        run: npm ci
+
+      - name: Install node packages
+        run: |
+          npm ci
+
+      - name: Run ESLint
+        run: |
+          npx lint
+
+      - name: Lint README.md
+        run: npm run lint:check
+
+      - name: Run Prettier check
+        run: npm run prettier:check

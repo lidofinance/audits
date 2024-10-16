@@ -1,0 +1,6 @@
+.gitignore
+.prettierignore
+
+eslint.config.js
+
+package-lock.json
