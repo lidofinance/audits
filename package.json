@@ -7,8 +7,7 @@
     "lint:check": "eslint --max-warnings=0 .",
     "lint:format": "eslint --max-warnings=0 --fix .",
     "prettier:check": "prettier . --check",
-    "prettier:format": "prettier . --write",
-    "link-check": "markdown-link-check README.md --verbose"
+    "prettier:format": "prettier . --write"
   },
   "lint-staged": {
     "./**/*.md": [
