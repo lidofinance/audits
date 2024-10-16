@@ -195,7 +195,7 @@ See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20pr69%20report%2004-2022
 - Warning Issues: 2 (2 Fixed)
 - Comment Risk Issues: 9 (8 Fixed, 1 Acknowledged)
 
-See [full report](Oxorio%Jumpgate%Smart%Contracts%Security%Audit%Report%05-2022.pdf) for more details.
+See [full report](Oxorio%20Jumpgate%20Smart%20Contracts%20Security%20Audit%20Report%2005-2022.pdf) for more details.
 
 ## 05-2022 MixBytes Lido Protocol Security Audit Report
 
