@@ -1,6 +1,6 @@
 # Lido Protocol Audits
 
-## Ethereum
+## Lido on Ethereum
 
 ### 12-2020 Sigma Prime Security Assessment
 
@@ -527,7 +527,7 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2010-24.pdf)
 
 See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.pdf) for more details.
 
-## L2 audit reports
+## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
 
@@ -631,14 +631,6 @@ The deployed contracts are verified against the [wstETH on Base](https://docs.li
 
 See [full report](L2/Mode-2024-07-18-Cantina-wstETH-deployment-verification.pdf) for more details.
 
-### 10-2024 Quantstamp wstETH on Zircuit Verification Report
-
-The deployed contracts are verified against the [wstETH on Optimism](https://github.com/lidofinance/lido-l2) and [Governance crosschain bridges](https://github.com/lidofinance/governance-crosschain-bridges) references together with the [proposed setup](https://docs.lido.fi/token-guides/wsteth-bridging-guide#the-proposed-configuration) initialization.
-
-See [full report](L2/Zircuit_2024-10-02-Quantstamp-wstETH-deployment-verification.pdf) for more details.
-
-## Binance Smart Chan (BNB)
-
 ### 07-2024 MixBytes Lido a.DI Audit
 
 - Total Issues: 13 (13 Acknowledged)
@@ -655,7 +647,13 @@ The deployed contracts are verified in accordance to the [proposal](https://rese
 
 See full [initial](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report.pdf) and [remediated](bsc/Lido-wstETH-on-BNB-Deployment-Verification-Report-remediated.pdf) reports for more details.
 
-## Polygon PoS
+### 10-2024 Quantstamp wstETH on Zircuit Verification Report
+
+The deployed contracts are verified against the [wstETH on Optimism](https://github.com/lidofinance/lido-l2) and [Governance crosschain bridges](https://github.com/lidofinance/governance-crosschain-bridges) references together with the [proposed setup](https://docs.lido.fi/token-guides/wsteth-bridging-guide#the-proposed-configuration) initialization.
+
+See [full report](L2/Zircuit_2024-10-02-Quantstamp-wstETH-deployment-verification.pdf) for more details.
+
+## Lido on Polygon PoS
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit Report for PR#69
 
