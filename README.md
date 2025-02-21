@@ -659,11 +659,17 @@ The deployed contracts are verified in accordance to the [proposal](https://rese
 
 See the [full report](L2/Starknet-2024-11-14-deployment-verification.pdf) for more details.
 
-### 01-2025 MixBytes stETH on Soneium Audit Report
+### 01-2025 MixBytes stETH on Soneium Verification Report
 
 The deployed contracts are verified against the [stETH on Optimism](https://docs.lido.fi/deployed-contracts/#optimism) deployment.
 
 See [full report](L2/stETH-on-Soneium-2025-01-MixBytes-Audit-Report.pdf) for more details.
+
+### 02-2025 MixBytes stETH on Unichain Verification Report
+
+The deployed contracts are verified against the [stETH on Optimism](https://docs.lido.fi/deployed-contracts/#optimism) deployment.
+
+See [full report](L2/stETH-on-Unichain-2025-02-MixBytes-Audit-Report.pdf) for more details.
 
 ## Lido on Polygon PoS
 
