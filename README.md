@@ -535,7 +535,7 @@ See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.p
 - Medium Issues: 4 (3 Fixed 1 Acknowledged)
 - Low Issues: 2 (1 Fixed, 1 Acknowledged)
 
-See full report for more details.
+See [full report](Certora%20Dual%20Governance%20Aurit%20Report%2002-2025.pdf) for more details.
 
 ### 02-2025 OpenZeppelin Dual Governance Audit
 
@@ -546,14 +546,14 @@ See full report for more details.
 - Low Issues: 9 (5 Fixed, 4 Acknowledged)
 - Info Issues: 16 (12 Fixed, 4 Acknowledged)
 
-See full audit and re-audit reports for more details.
+See full [audit](OpenZeppelin%20Dual%20Governance%20Audit%20Report%2002-2025.pdf) and [re-audit](OpenZeppelin%20Dual%20Governance%20Re-Audit%20Report%2002-2025.pdf) reports for more details.
 
 ### 02-2025 Runtime Verification Dual Governance Formal Verification
 
 Lido has engaged Runtime Verification to formally verify the correctness and safety properties of
 the smart contracts that comprise the Lido Dual Governance mechanism. 
 
-See full report for more details.
+See [full report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
 
 ## Lido Multichain audit reports
 
