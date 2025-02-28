@@ -550,8 +550,7 @@ See full [audit](OpenZeppelin%20Dual%20Governance%20Audit%20Report%2002-2025.pdf
 
 ### 02-2025 Runtime Verification Dual Governance Formal Verification
 
-Lido has engaged Runtime Verification to formally verify the correctness and safety properties of
-the smart contracts that comprise the Lido Dual Governance mechanism. 
+Lido has engaged Runtime Verification to formally verify the correctness and safety properties of the smart contracts that comprise the Lido Dual Governance mechanism.
 
 See [full report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
 
