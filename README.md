@@ -527,6 +527,10 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2010-24.pdf)
 
 See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.pdf) for more details.
 
+### 03-2025 Statemind GateSeal Deployment Validation Note
+
+See [note]() contents for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
