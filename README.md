@@ -529,7 +529,7 @@ See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.p
 
 ### 03-2025 Statemind GateSeal Deployment Validation Note
 
-See [note]() contents for more details.
+See [note](Statemind%20GateSeal%20Deployment%20Validation%2003-2025.pdf) contents for more details.
 
 ## Lido Multichain audit reports
 
