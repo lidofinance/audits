@@ -531,6 +531,64 @@ See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.p
 
 See [note](Statemind%20GateSeal%20Deployment%20Validation%2003-2025.pdf) contents for more details.
 
+### 09-2024 Certora Dual Governance Draft Audit
+
+- Total Issues: 23 (22 Fixed, 1 Acknowledged)
+- Critical Issues: 2 (2 Fixed)
+- High Issues: 6 (6 Fixed)
+- Medium Issues: 11 (10 Fixed, 1 Acknowledged)
+- Low Issues: 4 (4 Fixed)
+
+See full [report](Certora%20Dual%20Governance%20Draft%20Audit%20Report%2009-2024.pdf) for more details.
+
+### 02-2025 Certora Dual Governance Audit
+
+- Total Issues: 6 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 4 (3 Fixed, 1 Acknowledged)
+- Low Issues: 2 (1 Fixed, 1 Acknowledged)
+
+See full [report](Certora%20Dual%20Governance%20Audit%20Report%2002-2025.pdf) for more details.
+
+### 10-2024 Statemind Dual Governance Audit
+
+- Total Issues: 46 (32 Fixed, 14 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 4 (3 Fixed, 1 Acknowledged)
+- Info Issues: 42 (29 Fixed, 13 Acknowledged)
+
+See full [report](Statemind%20Dual%20Governance%20Audit%20Report%2010-2024.pdf) for more details.
+
+### 11-2024 OpenZeppelin Dual Governance Audit
+
+- Total Issues: 26 (18 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 9 (5 Fixed, 1 Acknowledged)
+- Info Issues: 16 (12 Fixed, 1 Acknowledged)
+
+See full [report](OpenZeppelin%20Dual%20Governance%20Audit%20Report%2011-2024.pdf) for more details.
+
+### 02-2025 OpenZeppelin Dual Governance Re-Audit
+
+- Total Issues: 9 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 3 (1 Fixed)
+- Info Issues: 6 (3 Fixed, 2 Acknowledged)
+
+See full [report](OpenZeppelin%20Dual%20Governance%20Re-Audit%20Report%2002-2025.pdf) for more details.
+
+### 02-2025 Runtime Verification Dual Governance Formal Verification
+
+Lido has engaged Runtime Verification to formally verify the correctness and safety properties of the smart contracts that comprise the Lido Dual Governance mechanism. 
+
+See full [report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
