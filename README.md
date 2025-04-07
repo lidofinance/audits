@@ -531,6 +531,27 @@ See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.p
 
 See [note](Statemind%20GateSeal%20Deployment%20Validation%2003-2025.pdf) contents for more details.
 
+### 04-2025 MixBytes Off-chain Audit of Lido Oracle v5
+
+- Total Issues: 6 (5 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 5 (4 Fixed, 1 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
+
+### 04-2025 Composable Security Off-chain Audit of Lido Oracle v5
+
+- Total Issues: 6 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Fixed)
+- Low Issues: 3 (1 Fixed, 2 Acknowledged)
+- Info Issues: 1 (1 Fixed)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
