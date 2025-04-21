@@ -770,6 +770,12 @@ The deployed contracts are verified against the [stETH on Optimism](https://docs
 
 See [full report](L2/stETH-on-Unichain-2025-02-MixBytes-deployment-verification.pdf) for more details.
 
+### 04-2025 MixBytes wstETH on Lisk Verification Report
+
+The deployed contracts are verified in accordance to the [proposal](https://research.lido.fi/t/temperature-check-wsteth-deployment-to-lisk-and-ownership-acceptance-by-lido-nec/6669/5)
+
+See [full report](L2/wstETH-on-Lisk-2025-04-MixBytes-deployment-verification.pdf) for more details.
+
 ## Lido on Polygon PoS
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit Report for PR#69
