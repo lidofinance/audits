@@ -626,6 +626,12 @@ No addition issues were found.
 
 See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2004-25.pdf) for more details.
 
+### 05-2025 MixBytes Lido RMC EasyTrack Security Audit
+
+- Total Issues: 0
+
+See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
