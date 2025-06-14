@@ -535,6 +535,111 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2010-24.pdf)
 
 See [full report](MixBytes%20Lido%20Oracle%20Security%20Audit%20Report%2010-24.pdf) for more details.
 
+### 03-2025 Statemind GateSeal Deployment Validation Note
+
+See [note](Statemind%20GateSeal%20Deployment%20Validation%2003-2025.pdf) contents for more details.
+
+### 09-2024 Certora Dual Governance Draft Audit
+
+- Total Issues: 23 (22 Fixed, 1 Acknowledged)
+- Critical Issues: 2 (2 Fixed)
+- High Issues: 6 (6 Fixed)
+- Medium Issues: 11 (10 Fixed, 1 Acknowledged)
+- Low Issues: 4 (4 Fixed)
+
+See full [report](Certora%20Dual%20Governance%20Draft%20Audit%20Report%2009-2024.pdf) for more details.
+
+### 02-2025 Certora Dual Governance Audit
+
+- Total Issues: 6 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 4 (3 Fixed, 1 Acknowledged)
+- Low Issues: 2 (1 Fixed, 1 Acknowledged)
+
+See full [report](Certora%20Dual%20Governance%20Audit%20Report%2002-2025.pdf) for more details.
+
+### 10-2024 Statemind Dual Governance Audit
+
+- Total Issues: 46 (32 Fixed, 14 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 4 (3 Fixed, 1 Acknowledged)
+- Info Issues: 42 (29 Fixed, 13 Acknowledged)
+
+See full [report](Statemind%20Dual%20Governance%20Audit%20Report%2010-2024.pdf) for more details.
+
+### 11-2024 OpenZeppelin Dual Governance Audit
+
+- Total Issues: 26 (18 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 9 (5 Fixed, 1 Acknowledged)
+- Info Issues: 16 (12 Fixed, 1 Acknowledged)
+
+See full [report](OpenZeppelin%20Dual%20Governance%20Audit%20Report%2011-2024.pdf) for more details.
+
+### 02-2025 OpenZeppelin Dual Governance Re-Audit
+
+- Total Issues: 9 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 3 (1 Fixed)
+- Info Issues: 6 (3 Fixed, 2 Acknowledged)
+
+See full [report](OpenZeppelin%20Dual%20Governance%20Re-Audit%20Report%2002-2025.pdf) for more details.
+
+### 02-2025 Runtime Verification Dual Governance Formal Verification
+
+Lido has engaged Runtime Verification to formally verify the correctness and safety properties of the smart contracts that comprise the Lido Dual Governance mechanism.
+
+See full [report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
+
+### 04-2025 MixBytes Off-chain Audit of Lido Oracle v5
+
+- Total Issues: 6 (5 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 5 (4 Fixed, 1 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
+
+### 04-2025 Composable Security Off-chain Audit of Lido Oracle v5
+
+- Total Issues: 6 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Fixed)
+- Low Issues: 3 (1 Fixed, 2 Acknowledged)
+- Info Issues: 1 (1 Fixed)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
+
+### 04-2025 Ackee Blockchain Audit of Community Staking Module (LIP-26, LIP-27)
+
+An updated report for [the previously audited Lido Community Staking Module](#10-2024-ackee-blockchain-audit-of-community-staking-module-lip-26) features a re-audit of the revised CS Verifier contract and deployment verification for the redeployed contract. This contract was updated to reflect changes introduced in LIP-27.
+
+No addition issues were found.
+
+See [full report](Ackee%20Blockchain%20Lido%20Community%20Staking%20Module%20Report%2004-25.pdf) for more details.
+
+### 04-2025 MixBytes On-chain Audit of Community Staking Module (LIP-23, LIP-25, LIP-26, LIP-27)
+
+An updated report for [the previously audited Lido Community Staking Module](#10-2024-mixbytes-on-chain-audit-of-community-staking-module-lip-23-lip-25-lip-26) features a re-audit of the revised CS Verifier contract and deployment verification for the redeployed contract. This contract was updated to reflect changes introduced in LIP-27.
+
+No addition issues were found.
+
+See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2004-25.pdf) for more details.
+
+### 05-2025 MixBytes Lido RMC EasyTrack Security Audit
+
+- Total Issues: 0
+
+See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
@@ -678,6 +783,12 @@ See [full report](L2/stETH-on-Soneium-2025-01-MixBytes-deployment-verification.p
 The deployed contracts are verified against the [stETH on Optimism](https://docs.lido.fi/deployed-contracts/#optimism) deployment.
 
 See [full report](L2/stETH-on-Unichain-2025-02-MixBytes-deployment-verification.pdf) for more details.
+
+### 04-2025 MixBytes wstETH on Lisk Verification Report
+
+The deployed contracts are verified in accordance to the [proposal](https://research.lido.fi/t/temperature-check-wsteth-deployment-to-lisk-and-ownership-acceptance-by-lido-nec/6669/5)
+
+See [full report](L2/wstETH-on-Lisk-2025-04-MixBytes-deployment-verification.pdf) for more details.
 
 ## Lido on Polygon PoS
 
