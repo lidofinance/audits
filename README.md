@@ -222,7 +222,7 @@ See [full report](ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20
 
 ### 08-2022 MixBytes Lido Protocol Security Auditor's Note On The Deployed Code Compliance
 
-See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) contents for more details
+See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) contents for more details.
 
 ### 09-2022 Statemind MEV-Boost relay allowlist Security Audit Report
 
@@ -588,6 +588,10 @@ See full [report](OpenZeppelin%20Dual%20Governance%20Re-Audit%20Report%2002-2025
 Lido has engaged Runtime Verification to formally verify the correctness and safety properties of the smart contracts that comprise the Lido Dual Governance mechanism.
 
 See full [report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
+
+### 06-2025 Statemind Dual Governance Deployment and Voting Script Review
+
+See [note](Statemind%20Dual%20Governance%20Deployment%20and%20Voting%20Script%20Review%20Report%2006-2025.pdf) contents for more details.
 
 ### 04-2025 MixBytes Off-chain Audit of Lido Oracle v5
 
