@@ -636,6 +636,12 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2004-25.pdf)
 
 See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
 
+### 06-2025 Composable Security Lido Oracle v5.2 Security consultation report
+
+After conducting a consultation, the security assessment did not identify any vulnerabilities introduced by the introduced version that could directly compromise the security or operational integrity of the Oracle system.
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V5_2%2006-25.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
