@@ -622,13 +622,13 @@ No addition issues were found.
 
 See [full report](Ackee%20Blockchain%20Lido%20Community%20Staking%20Module%20Report%2004-25.pdf) for more details.
 
-### 04-2025 MixBytes On-chain Audit of Community Staking Module (LIP-23, LIP-25, LIP-26, LIP-27)
+### 07-2025 MixBytes On-chain Audit of Community Staking Module (LIP-23, LIP-25, LIP-26, LIP-27)
 
 An updated report for [the previously audited Lido Community Staking Module](#10-2024-mixbytes-on-chain-audit-of-community-staking-module-lip-23-lip-25-lip-26) features a re-audit of the revised CS Verifier contract and deployment verification for the redeployed contract. This contract was updated to reflect changes introduced in LIP-27.
 
-No addition issues were found.
+No additional issues were found.
 
-See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2004-25.pdf) for more details.
+See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2007-2025.pdf) for more details.
 
 ### 05-2025 MixBytes Lido RMC EasyTrack Security Audit
 
