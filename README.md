@@ -642,6 +642,18 @@ After conducting a consultation, the security assessment did not identify any vu
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V5_2%2006-25.pdf) for more details.
 
+### 07-2025 Nethermind Lido Accounting Zk Oracle Security Review Report
+
+- Total Issues: 9 (8 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 1 (1 Fixed)
+- Info Issues: 5 (4 Fixed, 1 Acknowledged)
+- Best Practices Issues: 1 (1 Fixed)
+
+See [full report](zk/Nethermind_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
