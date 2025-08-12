@@ -551,6 +551,11 @@ See full [report](Certora%20Dual%20Governance%20Draft%20Audit%20Report%2009-2024
 
 See full [report](Certora%20Dual%20Governance%20Audit%20Report%2002-2025.pdf) for more details.
 
+### 08-2025 Certora Dual Governance v.1.0.1 Hotfix Review
+
+Lido has engaged Certora to review and verify the correctness and safety of the Dual Governance v.1.0.1 hotfix.
+See full [report](Certora%20Dual%20Governance%20v1.0.1%20Hotfix%20Review%20Report%2008-2025.pdf) for more details.
+
 ### 10-2024 Statemind Dual Governance Audit
 
 - Total Issues: 46 (32 Fixed, 14 Acknowledged)
