@@ -619,6 +619,12 @@ See [full report](MixBytes%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
 
 See [full report](Composable%20Security%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
 
+### 08-2025 Composable Security Off-chain Audit of Lido Oracle v5.4.1
+
+A security audit for a hotfix to the Lido Oracle V5. Previous [report for V5](#04-2025-composable-security-off-chain-audit-of-lido-oracle-v5).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V5_4_1%2008-25.pdf) for more details.
+
 ### 04-2025 Ackee Blockchain Audit of Community Staking Module (LIP-26, LIP-27)
 
 An updated report for [the previously audited Lido Community Staking Module](#10-2024-ackee-blockchain-audit-of-community-staking-module-lip-26) features a re-audit of the revised CS Verifier contract and deployment verification for the redeployed contract. This contract was updated to reflect changes introduced in LIP-27.
