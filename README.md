@@ -566,6 +566,14 @@ See full [report](Certora%20Dual%20Governance%20v1.0.1%20Hotfix%20Review%20Repor
 
 See full [report](Statemind%20Dual%20Governance%20Audit%20Report%2010-2024.pdf) for more details.
 
+### 06-2025 Statemind Dual Governance Deployment and Voting Script Review
+
+See [note](Statemind%20Dual%20Governance%20Deployment%20and%20Voting%20Script%20Review%20Report%2006-2025.pdf) contents for more details.
+
+### 08-2025 Statemind Dual Governance Escrow Fix Review and Deployment Validation
+
+See [note](Statemind%20Dual%20Governance%20Escrow%20Fix%20Review%20Report%2008-2025.pdf) contents for more details.
+
 ### 11-2024 OpenZeppelin Dual Governance Audit
 
 - Total Issues: 26 (18 Fixed, 2 Acknowledged)
@@ -593,10 +601,6 @@ See full [report](OpenZeppelin%20Dual%20Governance%20Re-Audit%20Report%2002-2025
 Lido has engaged Runtime Verification to formally verify the correctness and safety properties of the smart contracts that comprise the Lido Dual Governance mechanism.
 
 See full [report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
-
-### 06-2025 Statemind Dual Governance Deployment and Voting Script Review
-
-See [note](Statemind%20Dual%20Governance%20Deployment%20and%20Voting%20Script%20Review%20Report%2006-2025.pdf) contents for more details.
 
 ### 04-2025 MixBytes Off-chain Audit of Lido Oracle v5
 
