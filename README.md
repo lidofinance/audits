@@ -641,6 +641,13 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2007-2025.pd
 
 See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
 
+### 09-2025 MixBytes Lido Triggerable Withdrawals EasyTracks Security Audit
+
+- Total Issues: 3
+- Low Issues: 3 (3 Fixed)
+
+See [full report](MixBytes%20Lido%20Easy%20Track%20Security%20Audit%20Report%2009-25.pdf) for more details.
+
 ### 06-2025 Composable Security Lido Oracle v5.2 Security consultation report
 
 After conducting a consultation, the security assessment did not identify any vulnerabilities introduced by the introduced version that could directly compromise the security or operational integrity of the Oracle system.
