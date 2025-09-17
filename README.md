@@ -651,13 +651,13 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2007-2025.pd
 
 See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
 
-### 06-2025 Composable Security Lido Oracle v5.2 Security consultation report
+### 06-2025 Composable Security Lido Oracle v5.2 Security Consultation Report
 
 After conducting a consultation, the security assessment did not identify any vulnerabilities introduced by the introduced version that could directly compromise the security or operational integrity of the Oracle system.
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V5_2%2006-25.pdf) for more details.
 
-### 07-2025 Nethermind Lido Accounting Zk Oracle Security Review Report
+### 07-2025 Nethermind Lido Accounting Zk Oracle Security Review
 
 - Total Issues: 9 (8 Fixed, 1 Acknowledged)
 - Critical Issues: 0
@@ -675,6 +675,12 @@ See [full report](zk/Nethermind_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf) for more de
 - Low Issues: 2 (2 Acknowledged)
 
 See [full report](Code4rena%20CSM%20V2%20Audit%20Report%2008-2025.pdf) for more details.
+
+### 09-2025 MixBytes WstETH Staker Security Audit
+
+- Total Issues: 0
+
+See [full report](MixBytes%20WstETH%20Staker%20Security%20Audit%20Report%2009-2025.pdf) for more details.
 
 ## Lido Multichain audit reports
 
