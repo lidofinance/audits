@@ -641,7 +641,7 @@ See [full report](MixBytes%20Lido%20CSM%20Security%20Audit%20Report%2007-2025.pd
 
 See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%2005-2025.pdf) for more details.
 
-### 09-2025 MixBytes Lido Triggerable Withdrawals EasyTracks Security Audit
+### 09-2025 MixBytes Lido Triggerable Withdrawals Easy Track Security Audit
 
 - Total Issues: 3
 - Low Issues: 3 (3 Fixed)
