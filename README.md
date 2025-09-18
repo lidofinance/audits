@@ -566,6 +566,14 @@ See full [report](Certora%20Dual%20Governance%20v1.0.1%20Hotfix%20Review%20Repor
 
 See full [report](Statemind%20Dual%20Governance%20Audit%20Report%2010-2024.pdf) for more details.
 
+### 06-2025 Statemind Dual Governance Deployment and Voting Script Review
+
+See [note](Statemind%20Dual%20Governance%20Deployment%20and%20Voting%20Script%20Review%20Report%2006-2025.pdf) contents for more details.
+
+### 08-2025 Statemind Dual Governance Escrow Fix Review and Deployment Validation
+
+See [note](Statemind%20Dual%20Governance%20Escrow%20Fix%20Review%20Report%2008-2025.pdf) contents for more details.
+
 ### 11-2024 OpenZeppelin Dual Governance Audit
 
 - Total Issues: 26 (18 Fixed, 2 Acknowledged)
@@ -594,10 +602,6 @@ Lido has engaged Runtime Verification to formally verify the correctness and saf
 
 See full [report](Runtime%20Verification%20Dual%20Governance%20Formal%20Verification%20Report%2002-2025.pdf) for more details.
 
-### 06-2025 Statemind Dual Governance Deployment and Voting Script Review
-
-See [note](Statemind%20Dual%20Governance%20Deployment%20and%20Voting%20Script%20Review%20Report%2006-2025.pdf) contents for more details.
-
 ### 04-2025 MixBytes Off-chain Audit of Lido Oracle v5
 
 - Total Issues: 6 (5 Fixed, 1 Acknowledged)
@@ -618,6 +622,12 @@ See [full report](MixBytes%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
 - Info Issues: 1 (1 Fixed)
 
 See [full report](Composable%20Security%20Lido%20Oracle%20v5%2004-25.pdf) for more details.
+
+### 08-2025 Composable Security Off-chain Audit of Lido Oracle v5.4.1
+
+A security audit for a hotfix to the Lido Oracle V5. Previous [report for V5](#04-2025-composable-security-off-chain-audit-of-lido-oracle-v5).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V5_4_1%2008-25.pdf) for more details.
 
 ### 04-2025 Ackee Blockchain Audit of Community Staking Module (LIP-26, LIP-27)
 
@@ -648,13 +658,13 @@ See [full report](MixBytes%20Lido%20RMC%20EasyTrack%20Security%20Audit%20Report%
 
 See [full report](MixBytes%20Lido%20Easy%20Track%20Security%20Audit%20Report%2009-25.pdf) for more details.
 
-### 06-2025 Composable Security Lido Oracle v5.2 Security consultation report
+### 06-2025 Composable Security Lido Oracle v5.2 Security Consultation Report
 
 After conducting a consultation, the security assessment did not identify any vulnerabilities introduced by the introduced version that could directly compromise the security or operational integrity of the Oracle system.
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V5_2%2006-25.pdf) for more details.
 
-### 07-2025 Nethermind Lido Accounting Zk Oracle Security Review Report
+### 07-2025 Nethermind Lido Accounting Zk Oracle Security Review
 
 - Total Issues: 9 (8 Fixed, 1 Acknowledged)
 - Critical Issues: 0
@@ -665,6 +675,19 @@ See [full report](Composable%20Security%20Lido%20Oracle%20V5_2%2006-25.pdf) for 
 - Best Practices Issues: 1 (1 Fixed)
 
 See [full report](zk/Nethermind_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf) for more details.
+
+### 08-2025 Code4rena Audit of Lido Community Staking Module
+
+- Total Issues: 2 (2 Acknowledged)
+- Low Issues: 2 (2 Acknowledged)
+
+See [full report](Code4rena%20CSM%20V2%20Audit%20Report%2008-2025.pdf) for more details.
+
+### 09-2025 MixBytes WstETH Staker Security Audit
+
+- Total Issues: 0
+
+See [full report](MixBytes%20WstETH%20Staker%20Security%20Audit%20Report%2009-2025.pdf) for more details.
 
 ## Lido Multichain audit reports
 
