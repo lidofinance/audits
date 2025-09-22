@@ -723,6 +723,16 @@ See [full report](MixBytes%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report
 
 See [full report](Ackee%20Blockchain%20Community%20Staking%20Module%20v2%20Audit%20Report%2009-2025.pdf) for more details.
 
+### 09-2025 Statemind Triggerable Withdrawals and CSM v2 Audit
+
+- Total Issues: 26 (17 Fixed, 9 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 5 (2 Fixed, 3 Acknowledged)
+- Info Issues: 21 (15 Fixed, 6 Acknowledged)
+
+See [full report](Statemind%20Triggerable%20Withdrawals%20and%20CSM%20v2%20Audit%20Report%2009-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
