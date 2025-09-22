@@ -706,6 +706,12 @@ See [full report](Ackee%20Blockchain%20Lido%20Triggerable%20Withdrawals%20Audit%
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V6%20Audit%20Report.pdf) for more details.
 
+### 09-2025 MixBytes Easy Track CSM v2 Security Audit
+
+- Total Issues: 0
+
+See [full report](MixBytes%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report%2009-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
