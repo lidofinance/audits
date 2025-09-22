@@ -712,6 +712,17 @@ See [full report](Composable%20Security%20Lido%20Oracle%20V6%20Audit%20Report.pd
 
 See [full report](MixBytes%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report%2009-2025.pdf) for more details.
 
+### 09-2025 Ackee Blockchain CSM v2 Security Audit
+
+- Total Issues: 20 (10 Fixed, 10 Acknowledged)
+- High Issues: 2 (2 Fixed)
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 3 (3 Fixed)
+- Warning Issues: 10 (2 Fixed, 8 Acknowledged)
+- Info Issues: 4 (2 Fixed, 2 Acknowledged)
+
+See [full report](Ackee%20Blockchain%20Community%20Staking%20Module%20v2%20Audit%20Report%2009-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
