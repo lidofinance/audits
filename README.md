@@ -689,6 +689,23 @@ See [full report](Code4rena%20CSM%20V2%20Audit%20Report%2008-2025.pdf) for more 
 
 See [full report](MixBytes%20WstETH%20Staker%20Security%20Audit%20Report%2009-2025.pdf) for more details.
 
+### 09-2025 Ackee Blockchain Lido Triggerable Withdrawals Security Audit
+
+- Total Issues: 11 (9 Fixed, 1 Partially fixed, 1 Acknowledged)
+- Low Issues: 2 (2 Fixed)
+- Warning Issues: 4 (3 Fixed, 1 Acknowledged)
+- Info Issues: 5 (4 Fixed, 1 Partially fixed)
+
+See [full report](Ackee%20Blockchain%20Lido%20Triggerable%20Withdrawals%20Audit%20Report%2009-25.pdf) for more details.
+
+### 09-2025 Composable Security Lido Oracle v6 Security Audit
+
+- Total Issues: 4 (2 Fixed, 2 Acknowledged)
+- Low Issues: 2 (2 Acknowledged)
+- Info Issues: 2 (2 Fixed)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V6%20Audit%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
