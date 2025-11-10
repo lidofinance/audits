@@ -737,6 +737,28 @@ See [full report](Ackee%20Blockchain%20Community%20Staking%20Module%20v2%20Audit
 
 See [full report](Statemind%20Triggerable%20Withdrawals%20and%20CSM%20v2%20Audit%20Report%2009-2025.pdf) for more details.
 
+### 11-2025 [Draft] Certora Lido V3 Audit
+
+- Total Issues: 83
+- Critical Issues: 8
+- High Issues: 14
+- Medium Issues: 32
+- Low Issues: 17
+- Info Issues: 12
+
+See [full report](%5BDraft%5D%20Certora%20Lido%20V3%20Audit%20Report%20-%2011-2025.pdf) for more details.
+
+### 11-2025 [Draft] Certora Lido Oracle v7 Audit
+
+- Total Issues: 18
+- Critical Issues: 0
+- High Issues: 2
+- Medium Issues: 3
+- Low Issues: 7
+- Info Issues: 6
+
+See [full report](%5BDraft%5D%20Certora%20Lido%20Oracle%20v7%20Audit%20Report%2011-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
