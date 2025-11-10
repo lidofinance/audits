@@ -769,6 +769,17 @@ See [full report](%5BDraft%5D%20Certora%20Lido%20Oracle%20v7%20Audit%20Report%20
 
 See [full report](%5BDraft%5D%20MixBytes%20Lido%20V3%20Security%20Audit%20Report%2011-2025.pdf) for more details.
 
+### 11-2025 [Draft] Composable Security Lido Oracle v7 (Lido V3) Security Audit
+
+- Total Issues: 6
+- Critical Issues: 0
+- High Issues: 1
+- Medium Issues: 2
+- Low Issues: 0
+- Info Issues: 3
+
+See [full report](%5BDraft%5D%20Composable%20Security%20Lido%20Oracle%20V7%20%28Lido%20V3%29%2011-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit Report
