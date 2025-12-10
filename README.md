@@ -769,7 +769,17 @@ See [full report](%5BDraft%5D%20Certora%20Lido%20Oracle%20v7%20Audit%20Report%20
 
 See [full report](%5BDraft%5D%20MixBytes%20Lido%20V3%20Security%20Audit%20Report%2011-2025.pdf) for more details.
 
-### 12-2025 Consensys Diligence Lido V3 Security Audit
+### 12-2025 MixBytes Lido V3 Easy Track Security Audit Report
+
+- Total Issues: 4
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 4
+
+See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
+
+### 12-2025 Consensys Diligence Lido V3 Security Audit Report
 
 - Total Issues: 43
 - Critical Issues: 2
