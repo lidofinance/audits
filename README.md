@@ -782,24 +782,24 @@ See [full report](%5BDraft%5D%20MixBytes%20Lido%20V3%20Security%20Audit%20Report
 
 ### 12-2025 MixBytes Lido V3 Easy Track Security Audit Report
 
-- Total Issues: 4
+- Total Issues: 4 (2 Fixed, 2 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
 - Medium Issues: 0
-- Low Issues: 4
+- Low Issues: 4 (2 Fixed, 2 Acknowledged)
 
 See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
 ### 12-2025 Consensys Diligence Lido V3 Security Audit Report
 
-- Total Issues: 43
-- Critical Issues: 2
-- High Issues: 5
-- Medium Issues: 13
-- Minor Issues: 9
-- Info Issues: 14
+- Total Issues: 43 (32 Fixed, 11 Acknowledged)
+- Critical Issues: 2 (2 Fixed)
+- Major Issues: 5 (5 Fixed)
+- Medium Issues: 13 (12 Fixed, 1 Acknowledged)
+- Minor Issues: 9 (5 Fixed, 4 Acknowledged)
+- Info Issues: 14 (8 Fixed, 6 Acknowledged)
 
-See [full report](Consensys%E2%80%A9Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details.
+See [full report](Consensys%20Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details.
 
 ### 11-2025 [Draft] Composable Security Lido Oracle v7 (Lido V3) Security Audit
 
