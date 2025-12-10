@@ -737,27 +737,38 @@ See [full report](Ackee%20Blockchain%20Community%20Staking%20Module%20v2%20Audit
 
 See [full report](Statemind%20Triggerable%20Withdrawals%20and%20CSM%20v2%20Audit%20Report%2009-2025.pdf) for more details.
 
-### 11-2025 [Draft] Certora Lido V3 Security Audit
+### 12-2025 Certora Lido V3 Security Audit Report
 
-- Total Issues: 83
-- Critical Issues: 8
-- High Issues: 14
-- Medium Issues: 32
-- Low Issues: 17
-- Info Issues: 12
+- Total Issues: 84 (70 Fixed, 14 Acknowledged)
+- Critical Issues: 7 (7 Fixed)
+- High Issues: 14 (14 Fixed)
+- Medium Issues: 29 (25 Fixed, 4 Acknowledged)
+- Low Issues: 21 (13 Fixed, 8 Acknowledged)
+- Info Issues: 13 (11 Fixed, 2 Acknowledged)
 
-See [full report](%5BDraft%5D%20Certora%20Lido%20V3%20Audit%20Report%20-%2011-2025.pdf) for more details.
+See [full report](Certora%20Lido%20V3%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
-### 11-2025 [Draft] Certora Lido Oracle v7 Security Audit
+### 12-2025 Certora Lido V3 Formal Verification Report
 
-- Total Issues: 18
+- Total Issues: 10 (6 Fixed, 4 Acknowledged)
+- Critical Issues: 1 (1 Fixed)
+- High Issues: 0
+- Medium Issues: 3 (2 Fixed, 1 Acknowledged)
+- Low Issues: 5 (3 Fixed, 2 Acknowledged)
+- Info Issues: 1 (1 Acknowledged)
+
+See [full report](Certora%20Lido%20V3%20Formal%20Verification%20Report%20-%2012-2025.pdf) for more details.
+
+### 12-2025 Certora Lido V3 Oracle Off-chain Security Assessment Report
+
+- Total Issues: 16 (7 Fixed, 9 Acknowledged)
 - Critical Issues: 0
-- High Issues: 2
-- Medium Issues: 3
-- Low Issues: 7
-- Info Issues: 6
+- High Issues: 2 (2 Fixed)
+- Medium Issues: 2 (2 Fixed)
+- Low Issues: 7 (2 Fixed, 5 Acknowledged)
+- Info Issues: 5 (1 Fixed, 4 Acknowledged)
 
-See [full report](%5BDraft%5D%20Certora%20Lido%20Oracle%20v7%20Audit%20Report%2011-2025.pdf) for more details.
+See [full report](Certora%20Lido%20V3%20Oracle%20V7%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
 ### 11-2025 [Draft] MixBytes Lido V3 Security Audit Report
 
