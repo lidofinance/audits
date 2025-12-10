@@ -769,16 +769,16 @@ See [full report](%5BDraft%5D%20Certora%20Lido%20Oracle%20v7%20Audit%20Report%20
 
 See [full report](%5BDraft%5D%20MixBytes%20Lido%20V3%20Security%20Audit%20Report%2011-2025.pdf) for more details.
 
-### 11-2025 [Draft] Consensys Diligence Lido V3 Security Audit
+### 12-2025 Consensys Diligence Lido V3 Security Audit
 
-- Total Issues: 47
+- Total Issues: 43
 - Critical Issues: 2
 - High Issues: 5
-- Medium Issues: 14
-- Low Issues: 12
+- Medium Issues: 13
+- Minor Issues: 9
 - Info Issues: 14
 
-See [full report](%5BDraft%5D%20Consensys%E2%80%A9Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details.
+See [full report](Consensys%E2%80%A9Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details.
 
 ### 11-2025 [Draft] Composable Security Lido Oracle v7 (Lido V3) Security Audit
 
