@@ -770,15 +770,15 @@ See [full report](Certora%20Lido%20V3%20Formal%20Verification%20Report%20-%2012-
 
 See [full report](Certora%20Lido%20V3%20Oracle%20V7%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
-### 11-2025 [Draft] MixBytes Lido V3 Security Audit Report
+### 12-2025 MixBytes Lido V3 Security Audit Report
 
-- Total Issues: 19
+- Total Issues: 19 (8 Fixed, 11 Acknowledged)
 - Critical Issues: 0
-- High Issues: 1
-- Medium Issues: 5
-- Low Issues: 13
+- High Issues: 1 (1 Acknowledged)
+- Medium Issues: 5 (1 Fixed, 4 Acknowledged)
+- Low Issues: 13 (7 Fixed, 6 Acknowledged)
 
-See [full report](%5BDraft%5D%20MixBytes%20Lido%20V3%20Security%20Audit%20Report%2011-2025.pdf) for more details.
+See [full report](MixBytes%20Lido%20V3%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
 ### 12-2025 MixBytes Lido V3 Easy Track Security Audit Report
 
