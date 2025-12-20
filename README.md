@@ -824,6 +824,16 @@ See [full report](Composable%20Security%20Lido%20V3%20Oracle%20V7%20Audit%20Repo
 
 See [full report](Ackee%20Blockchain%20Stonks%202%20Audit%20Report%2012-25.pdf) for more details.
 
+### 12-2025 MixBytes Lido LDO Revesting Security Audit Report
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Acknowledged)
+
+See [full report](Lido%20LDO%20Revesting%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
