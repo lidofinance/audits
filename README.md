@@ -746,7 +746,7 @@ See [full report](Statemind%20Triggerable%20Withdrawals%20and%20CSM%20v2%20Audit
 - Low Issues: 21 (13 Fixed, 8 Acknowledged)
 - Info Issues: 13 (11 Fixed, 2 Acknowledged)
 
-See [full report](Certora%20Lido%20V3%20Audit%20Report%20-%2012-2025.pdf) for more details.
+See [full report](Certora%20Lido%20V3%20Audit%20Report%20-%2012-2025.pdf) for more details. The report has been updated on 01-2026 with the latest commit taking into account the changes made to the BLS library.
 
 ### 12-2025 Certora Lido V3 Formal Verification
 
@@ -778,7 +778,7 @@ See [full report](Certora%20Lido%20V3%20Oracle%20V7%20Audit%20Report%20-%2012-20
 - Medium Issues: 5 (1 Fixed, 4 Acknowledged)
 - Low Issues: 13 (7 Fixed, 6 Acknowledged)
 
-See [full report](MixBytes%20Lido%20V3%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
+See [full report](MixBytes%20Lido%20V3%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details. The report has been updated on 01-2026 with the latest commit taking into account the changes made to the BLS library.
 
 ### 12-2025 MixBytes Lido V3 Easy Track Security Audit
 
@@ -799,7 +799,7 @@ See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Repor
 - Minor Issues: 9 (5 Fixed, 4 Acknowledged)
 - Info Issues: 14 (8 Fixed, 6 Acknowledged)
 
-See [full report](Consensys%20Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details.
+See [full report](Consensys%20Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details. The report has been updated on 01-2026 with the latest commit taking into account the changes made to the BLS library.
 
 ### 12-2025 Composable Security Lido V3 Oracle v7 Security Audit
 
@@ -833,6 +833,17 @@ See [full report](Ackee%20Blockchain%20Stonks%202%20Audit%20Report%2012-25.pdf) 
 - Low Issues: 1 (1 Acknowledged)
 
 See [full report](Lido%20LDO%20Revesting%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
+
+### 01-2026 Sigma Prime Lido BLS Library Security Audit
+
+- Total Issues: 6 (6 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+- Info Issues: 5 (5 Fixed)
+
+See [full report](Sigma%20Prime%20-%20Lido%20BLS%20Library%20Security%20Assessment%20Report%20v2.0%20-%2001-2026.pdf) for more details.
 
 ## Lido Multichain audit reports
 
