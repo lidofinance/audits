@@ -845,6 +845,17 @@ See [full report](Lido%20LDO%20Revesting%20Security%20Audit%20Report%20-%2012-20
 
 See [full report](Sigma%20Prime%20-%20Lido%20BLS%20Library%20Security%20Assessment%20Report%20v2.0%20-%2001-2026.pdf) for more details.
 
+### 01-2026 MixBytes CSM Performance Oracle Security Audit
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Acknowledged)
+
+See [full report](MixBytes%20CSM%20Performance%20Oracle%20Security%20Audit%20Report%2001-26.pdf) for more details.
+
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
