@@ -855,7 +855,6 @@ See [full report](Sigma%20Prime%20-%20Lido%20BLS%20Library%20Security%20Assessme
 
 See [full report](MixBytes%20CSM%20Performance%20Oracle%20Security%20Audit%20Report%2001-26.pdf) for more details.
 
-
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
