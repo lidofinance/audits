@@ -788,7 +788,7 @@ See [full report](MixBytes%20Lido%20V3%20Security%20Audit%20Report%20-%2012-2025
 - Medium Issues: 0
 - Low Issues: 4 (2 Fixed, 2 Acknowledged)
 
-See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
+See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details. The report was updated in 01-2026 to include the latest changes from phase 2 of the Lido V3 release, specifically for the Easy Track stVaults-related factories.
 
 ### 12-2025 Consensys Diligence Lido V3 Security Audit
 
