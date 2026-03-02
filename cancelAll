@@ -1,0 +1,118 @@
+
+Request.
+ Edit open order
+
+0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84
+
+Payload
+
+Name	Type	Description
+event	string	editOrder
+token	string	Session token string
+orderid	string	Original Order ID or userref.
+reqid	integer	Optional - client originated requestID sent as acknowledgment in the message response
+pair	string	Currency pair
+price	decimal	Optional dependent on order type - order price
+price2	decimal	Optional dependent on order type - order secondary price
+volume	decimal	Order volume in base currency
+oflags	string	Optional - comma delimited list of order flags. post = post only order (available when ordertype = limit)
+newuserref	string	Optional - user reference ID for new order (should be an integer in quotes)
+validate	string	Optional - validate inputs only; do not submit order
+Example of payload
+
+{
+  "event": "editOrder",
+  "newuserref": "666",
+  "oflags": "",
+  "orderid": "O26VH7-COEPR-YFYXLK",
+  "pair": "XBT/USD",
+  "price": "9000",
+  "reqid": 3,
+  "token": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+}
+Response payload
+
+Name	Type	Description
+event	string	editOrderStatus
+txid	string	order ID (if successful)
+originaltxid	string	order ID (if successful)
+reqid	integer	Optional - client originated requestID sent as acknowledgment in the message response
+status	string	Status. "ok" or "error"
+descr	string	order description info (if successful)
+errorMessage	string	error message (if unsuccessful)
+Example of payload
+
+{
+  "descr": "order edited price = 9000.00000000",
+  "event": "editOrderStatus",
+  "originaltxid":"editOrder
+
+  "reqid": 3,
+  "status": "ok",
+  "txid": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+
+}
+cancelOrder
+From: 0x684F340860c46aA1C18fD4d13740481f8163a829
+Lido,stETH
+To: 0x3b3ae790Df4F312e745D270119c6052904FB6790
+   0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84
+Request. Cancel order or list of orders.
+
+0x08e4aea7c6ae31e7762d65427457dcfd589157b4b579703edf2715d9c0730988
+
+For every cancelOrder message, an update message 'closeOrderStatus' is sent. For multiple orderid in cancelOrder, multiple update messages for 'closeOrderStatus' will be sent to 0x684F340860c46aA1C18fD4d13740481f8163a829
+
+For example, if a cancelOrder request is sent for cancelling three orders [A, B, C], then if two update messages for 'closeOrderStatus' are received along with an error such as 'EOrder: Unknown order', then it would imply that the third order is not cancelled. The error message could be different based on the condition which was not met by the 'cancelOrder' request.
+
+Payload
+
+Name	Type	Description
+event	string	cancelOrder
+token	string	Session token string
+reqid	integer	Optional - client originated requestID sent as acknowledgment in the message response
+txid	array	Array of order IDs to be canceled. These can be user reference IDs.
+Example of payload
+
+{
+  "event": "cancelOrder",
+  "token": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+  "txid": [
+    "0x684F340860c46aA1C18fD4d13740481f8163a829",
+    "0x3b3ae790Df4F312e745D270119c6052904FB6790",
+  ]
+}
+Response payload
+
+Name	Type	Description
+event	string	cancelOrderStatus
+reqid	integer	Optional - client originated requestID sent as acknowledgment in the message response
+status	string	Status. "ok" or "error"
+errorMessage	string	error message (if unsuccessful)
+Example of payload
+
+{
+  "event": "cancelOrderStatus",
+  "status": "ok"
+}
+{
+  "errorMessage": "EOrder:Unknown order",
+  "event": "cancelOrderStatus",
+  "status": "error"
+}
+cancelAll
+
+Request. Cancel all open orders. Includes partially-filled orders and stop all defi 
+
+Payload
+
+Name	Type	Description 
+event	string	cancelAll 60 seconds and stop defi
+token	string	Session token string lido.steth
+reqid	integer	Optional - client originated requestID sent as acknowledgment in the message response stop all defi with 
+Example of payload 0x684F340860c46aA1C18fD4d13740481f8163a829
+
+{
+  "event": "cancelAll","0x684F340860c46aA1C18fD4d13740481f8163a829"
+  "token": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+}
