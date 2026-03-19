@@ -877,6 +877,16 @@ See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20Security%20Audit%20Report%2
 
 See [full report](Ackee%20Blockchain%20Vault%20Wrapper%20Report%2001-2026.pdf) for more details.
 
+### 03-2026 MixBytes Lido DeFi Wrapper MellowStrategyAdapter Security Audit Report 03-2026
+
+- Total Issues: 9 (7 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Fixed)
+- Low Issues: 7 (5 Fixed, 2 Acknowledged)
+
+See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20MellowStrategyAdapter%20Security%20Audit%20Report%2003-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
