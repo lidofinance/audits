@@ -834,6 +834,15 @@ See [full report](Ackee%20Blockchain%20Stonks%202%20Audit%20Report%2012-25.pdf) 
 
 See [full report](Lido%20LDO%20Revesting%20Security%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
+### 12-2025 Composable Security Lido Oracle v7 Security Audit
+
+- Total Issues: 5 (4 Fixed, 2 Acknowledged)
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 2 (2 Fixed)
+- Info Issues: 3 (1 Fixed, 2 Acknowledged)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V7%20Audit%20Report.pdf) for more details.
+
 ### 01-2026 Sigma Prime Lido BLS Library Security Audit
 
 - Total Issues: 6 (6 Fixed)
@@ -876,6 +885,13 @@ See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20Security%20Audit%20Report%2
 - Info Issues: 9 (8 Fixed, 1 Acknowledged)
 
 See [full report](Ackee%20Blockchain%20Vault%20Wrapper%20Report%2001-2026.pdf) for more details.
+
+### 03-2026 Composable Security Lido Oracle v7.1 Security Audit
+
+- Total Issues: 1 (1 Fixed)
+- Info Issues: 1 (1 Fixed)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V7_1%20Audit%20Report.pdf) for more details.
 
 ### 03-2026 MixBytes Lido DeFi Wrapper MellowStrategyAdapter Security Audit Report 03-2026
 
