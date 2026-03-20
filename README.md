@@ -801,17 +801,6 @@ See [full report](MixBytes%20Lido%20V3%20Easy%20Track%20Security%20Audit%20Repor
 
 See [full report](Consensys%20Diligence%20Lido%20V3%20Security%20Audit%20-%2011-2025.pdf) for more details. The report has been updated on 01-2026 with the latest commit taking into account the changes made to the BLS library.
 
-### 12-2025 Composable Security Lido V3 Oracle v7 Security Audit
-
-- Total Issues: 6 (4 Fixed, 2 Acknowledged)
-- Critical Issues: 0
-- High Issues: 1 (1 Fixed)
-- Medium Issues: 2 (2 Fixed)
-- Low Issues: 0
-- Info Issues: 3 (1 Fixed, 2 Acknowledged)
-
-See [full report](Composable%20Security%20Lido%20V3%20Oracle%20V7%20Audit%20Report%20-%2012-2025.pdf) for more details.
-
 ### 12-2025 Ackee Blockchain Stonks 2.0 Audit
 
 - Total Issues: 17 (17 Fixed)
@@ -836,12 +825,14 @@ See [full report](Lido%20LDO%20Revesting%20Security%20Audit%20Report%20-%2012-20
 
 ### 12-2025 Composable Security Lido Oracle v7 Security Audit
 
-- Total Issues: 5 (4 Fixed, 2 Acknowledged)
+- Total Issues: 6 (4 Fixed, 2 Acknowledged)
+- Critical Issues: 0
 - High Issues: 1 (1 Fixed)
 - Medium Issues: 2 (2 Fixed)
+- Low Issues: 0
 - Info Issues: 3 (1 Fixed, 2 Acknowledged)
 
-See [full report](Composable%20Security%20Lido%20Oracle%20V7%20Audit%20Report.pdf) for more details.
+See [full report](Composable%20Security%20Lido%20V3%20Oracle%20V7%20Audit%20Report%20-%2012-2025.pdf) for more details.
 
 ### 01-2026 Sigma Prime Lido BLS Library Security Audit
 
@@ -892,6 +883,16 @@ See [full report](Ackee%20Blockchain%20Vault%20Wrapper%20Report%2001-2026.pdf) f
 - Info Issues: 1 (1 Fixed)
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V7_1%20Audit%20Report.pdf) for more details.
+
+### 03-2026 MixBytes Lido DeFi Wrapper MellowStrategyAdapter Security Audit Report 03-2026
+
+- Total Issues: 9 (7 Fixed, 2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Fixed)
+- Low Issues: 7 (5 Fixed, 2 Acknowledged)
+
+See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20MellowStrategyAdapter%20Security%20Audit%20Report%2003-2026.pdf) for more details.
 
 ## Lido Multichain audit reports
 
