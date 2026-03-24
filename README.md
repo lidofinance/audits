@@ -1065,3 +1065,11 @@ See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20pr69%20report%2004-2022
 - Info Issues: 93 (49 Fixed, 11 Acknowledged, 33 No Issue)
 
 See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20V2%2008-2022.pdf) for more details.
+
+### 03-2026 Cantina zkSync Lido Bridge PR-85 Fix Review
+
+Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [August 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
+
+- Total Issues: 0
+
+See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
