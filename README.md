@@ -894,6 +894,15 @@ See [full report](Composable%20Security%20Lido%20Oracle%20V7_1%20Audit%20Report.
 
 See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20MellowStrategyAdapter%20Security%20Audit%20Report%2003-2026.pdf) for more details.
 
+### 03-2026 MixBytes Triggerable Withdrawals Easy Track Security Audit Report
+
+An updated report for [the previously audited Triggerable Withdrawals Easy Tracks](#09-2025-mixbytes-lido-triggerable-withdrawals-easy-track-security-audit).
+The update includes mitigations for a vulnerability that allowed unauthorized access to the withdrawal process by duplicating keys not owned by the Node Operator.
+
+No addition issues were found.
+
+See [full report](MixBytes%20Lido%20Easy%20Track%20Security%20Audit%20Report%2003-26.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
