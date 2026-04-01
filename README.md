@@ -903,6 +903,38 @@ No addition issues were found.
 
 See [full report](MixBytes%20Lido%20Easy%20Track%20Security%20Audit%20Report%2003-26.pdf) for more details.
 
+### 03-2026 Certora Lido V3 Security Assessment Fix Review
+
+A fix review for [the previously audited Lido V3 contracts](#12-2025-certora-lido-v3-security-audit).
+The review covered fixes to VaultHub's partial withdrawal prohibition for unhealthy vaults and related components.
+
+- Total Issues: 3 (2 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+- Info Issues: 2 (1 Fixed, 1 Acknowledged)
+
+See [full report](Certora%20Lido%20V3%20Smart%20Contracts%20Security%20Assessment%20Report%20fix%20review%2003-26.pdf) for more details.
+
+### 03-2026 MixBytes Lido V3 Security Audit
+
+An updated report for [the previously audited Lido V3 contracts](#12-2025-mixbytes-lido-v3-security-audit).
+The review covered fixes to LazyOracle's sanity checks and VaultHub's partial withdrawal handling for vaults with obligations shortfall.
+
+No issues were found.
+
+See [full report](MixBytes%20Lido%20v3%20Security%20Audit%20Report%2003-26.pdf) for more details.
+
+### 03-2026 MixBytes Lido EasyTrack stVaults Security Audit
+
+An updated report for [the previously audited Lido V3 Easy Track contracts](#12-2025-mixbytes-lido-v3-easy-track-security-audit).
+The review covered changes to tier shareLimit validation in OperatorGrid EVMScript factories, decoupling it from the on-chain group shareLimit in favor of a hardcoded constant.
+
+No issues were found.
+
+See [full report](MixBytes%20Lido%20Easy%20Track%20stVaults%20Security%20Audit%20Report%2003-26.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
