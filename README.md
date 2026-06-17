@@ -234,7 +234,7 @@ See [note](MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf) cont
 
 See [full report](Statemind%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf) for more details.
 
-### 09-2022 Statemind Insurance Fund Audit Report
+### 09-2022 Statemind Reserve Fund Audit Report
 
 - Total Issues: 4 (1 Fixed, 3 Acknowledged)
 - Critical Issues: 0
