@@ -28,11 +28,11 @@
     "contracts"
   ],
   "devDependencies": {
-    "@commitlint/cli": "^21.0.2",
+    "@commitlint/cli": "^21.2.0",
     "@commitlint/config-conventional": "^21.0.2",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.7",
-    "prettier": "^3.8.4",
+    "lint-staged": "^17.0.8",
+    "prettier": "^3.9.4",
     "eslint-plugin-mdx": "^3.8.1",
     "markdown-link-check": "^3.14.2"
   },
