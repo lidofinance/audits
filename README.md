@@ -1176,6 +1176,14 @@ Audited at commit [`cdd0767`](https://github.com/lidofinance/lido-oracle/tree/cd
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8%20Audit%20Report.pdf) for more details.
 
+### 07-2026 Composable Security Lido Oracle v8.0.2 Security Consultation
+
+Audited at commit [`0fb275b7`](https://github.com/lidofinance/lido-oracle/tree/0fb275b7a3030ffed36a64182b3d91cd2de6bfc6).
+
+A security consultation for a hotfix to the Lido Oracle V8, correcting the calculation of deposits injected between the nearest/distant slot and a report's reference slot, and adding a check that these slots fall within the same frame. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_2%20Security%20Consultation%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
