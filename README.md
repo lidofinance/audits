@@ -1184,6 +1184,49 @@ A security consultation for a hotfix to the Lido Oracle V8, correcting the calcu
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_2%20Security%20Consultation%20Report.pdf) for more details.
 
+### 07-2026 Certora Staking Router v3 Audit
+
+Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
+
+An audit of the [Staking Router v3](https://research.lido.fi/t/staking-router-v3-design-implementation-proposal-lip-35/11621).
+
+- Total Issues: 23 (15 Fixed, 8 Acknowledged)
+- Critical Issues: 1 (1 Fixed)
+- High Issues: 0
+- Medium Issues: 5 (5 Fixed)
+- Low Issues: 7 (2 Fixed, 5 Acknowledged)
+- Info Issues: 10 (7 Fixed, 3 Acknowledged)
+
+See [full report](Certora%20Staking%20Router%20v3%20Audit%20Report%2007-2026.pdf) for more details.
+
+### 07-2026 Statemind Staking Router v3 Audit
+
+Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
+
+An audit of the [Staking Router v3](https://research.lido.fi/t/staking-router-v3-design-implementation-proposal-lip-35/11621).
+
+- Total Issues: 45 (33 Fixed, 12 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Info Issues: 45 (33 Fixed, 12 Acknowledged)
+
+See [full report](Statemind%20Staking%20Router%20v3%20Audit%20Report%2007-2026.pdf) for more details.
+
+### 07-2026 MixBytes Staking Router v3 Upgrade Audit
+
+Audited at commit [`4c889ca`](https://github.com/lidofinance/core/tree/4c889ca95f66a8d57fb8d1eb2b83d251e51f8718).
+
+An audit of the [Staking Router v3](https://research.lido.fi/t/staking-router-v3-design-implementation-proposal-lip-35/11621) upgrade (voting contracts).
+
+- Total Issues: 11 (4 Fixed, 7 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Acknowledged)
+- Low Issues: 10 (4 Fixed, 6 Acknowledged)
+
+See [full report](MixBytes%20Staking%20Router%20v3%20Upgrade%20Audit%20Report%2007-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
