@@ -1256,6 +1256,20 @@ An audit of the [Staking Router v3](https://research.lido.fi/t/staking-router-v3
 
 See [full report](MixBytes%20Staking%20Router%20v3%20Upgrade%20Audit%20Report%2007-2026.pdf) for more details.
 
+### 07-2026 MixBytes Lido Easy Track Factories (SRv3, CSMv3, CMv2) Security Audit
+
+Audited at commit [`b5d7455`](https://github.com/lidofinance/easy-track/tree/b5d74557448a7f65ea74abdc09ff954bd113c8c3).
+
+An audit of Easy Track factories supporting the Staking Router v3, Community Staking Module v3, and Curated Module v2 releases.
+
+- Total Issues: 10 (6 Fixed, 4 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 1 (1 Fixed)
+- Low Issues: 9 (5 Fixed, 4 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Easy%20Track%20Factories%20%28SRv3%20CSMv3%20CMv2%29%20Security%20Audit%20Report%2007-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
