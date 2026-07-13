@@ -1176,6 +1176,35 @@ Audited at commit [`cdd0767`](https://github.com/lidofinance/lido-oracle/tree/cd
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8%20Audit%20Report.pdf) for more details.
 
+### 06-2026 Certora Lido CSM v3 and CM v2 Audit
+
+Audited at commit [`4d3de66`](https://github.com/lidofinance/community-staking-module/tree/4d3de6658499e1c1774951780a97d7ae25ca18b8).
+
+An audit of the Community Staking Module v3 and Curated Module v2.
+
+- Total Issues: 12 (6 Fixed, 6 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 5 (1 Fixed, 4 Acknowledged)
+- Info Issues: 7 (5 Fixed, 2 Acknowledged)
+
+See [full report](Certora%20Lido%20CSM%20v3%20and%20CM%20v2%20Audit%20Report%20-%2006-2026.pdf) for more details.
+
+### 06-2026 Statemind Lido CSM v3 and CM v2 Audit
+
+Audited at commit [`4d3de66`](https://github.com/lidofinance/community-staking-module/tree/4d3de6658499e1c1774951780a97d7ae25ca18b8).
+
+An audit of the Community Staking Module v3 and Curated Module v2.
+
+- Total Issues: 20 (14 Fixed, 6 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Info Issues: 20 (14 Fixed, 6 Acknowledged)
+
+See [full report](Statemind%20Lido%20CSM%20v3%20and%20CM%20v2%20Audit%20Report%2006-2026.pdf) for more details.
+
 ### 07-2026 Composable Security Lido Oracle v8.0.2 Security Consultation
 
 Audited at commit [`0fb275b7`](https://github.com/lidofinance/lido-oracle/tree/0fb275b7a3030ffed36a64182b3d91cd2de6bfc6).
