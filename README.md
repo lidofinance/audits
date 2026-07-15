@@ -1213,6 +1213,14 @@ A security consultation for a hotfix to the Lido Oracle V8, correcting the calcu
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_2%20Security%20Consultation%20Report.pdf) for more details.
 
+### 07-2026 Composable Security Lido Oracle v8.0.3 Security Consultation
+
+Audited at commit [`1d0b9440`](https://github.com/lidofinance/lido-oracle/tree/1d0b9440fda2dd6d421a1756fa5604269f972a6d).
+
+A security consultation for a hotfix to the Lido Oracle V8, fixing an over-ejection on exact withdrawal coverage, an incorrect sweep calculation for validators to eject, invalid indexing of MetaRegistry groups, and non-deterministic tree construction. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_3%20Security%20Consultation%20Report.pdf) for more details.
+
 ### 07-2026 Certora Staking Router v3 Audit
 
 Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
