@@ -1627,6 +1627,18 @@ Audited at commit [`82b1849`](https://github.com/mellow-finance/flexible-vaults/
 
 See [full report](earn/Lido%20AAVE%20Migrator%20Security%20Audit%20Report.pdf) for more details.
 
+### 07-2026 MixBytes Mellow Finance SyncRedeemQueue Security Audit
+
+Audited at commit [`69bbaf1`](https://github.com/mellow-finance/flexible-vaults/tree/69bbaf17530dc5127ecf9049cceaab141f516a1e).
+
+- Total Issues: 11 (11 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 3 (3 Acknowledged)
+- Low Issues: 8 (8 Acknowledged)
+
+See [full report](earn/Mellow%20Finance%20SyncRedeemQueue%20Security%20Audit%20Report.pdf) for more details.
+
 ## Lido on Polygon PoS
 
 > [!WARNING]
