@@ -1593,7 +1593,7 @@ Audited at commit [`00432c9`](https://github.com/lidofinance/atoken-wsteth-swap/
 - Medium Issues: 2 (2 Acknowledged)
 - Low Issues: 4 (4 Acknowledged)
 
-See [full report](earn/Lido%20ATokenWstETHSwap%20Security%20Audit%20Report.pdf) for more details.
+See [full report](earn/2026-04-21_MixBytes_Lido-ATokenWstETHSwap.pdf) for more details.
 
 ### 04-2026 MixBytes GGV Migrator Security Audit
 
@@ -1605,7 +1605,7 @@ Audited at commit [`da93276`](https://github.com/mellow-finance/flexible-vaults/
 - Medium Issues: 0
 - Low Issues: 2 (2 Acknowledged)
 
-See [full report](earn/Lido%20GGV%20Migrator%20Security%20Audit%20Report.pdf) for more details.
+See [full report](earn/2026-04-24_MixBytes_Lido-GGV-Migrator.pdf) for more details.
 
 ### 05-2026 MixBytes GGV Migrator V2 Security Audit
 
@@ -1617,7 +1617,7 @@ Audited at commit [`07adcc0`](https://github.com/mellow-finance/flexible-vaults/
 - Medium Issues: 0
 - Low Issues: 1 (1 Acknowledged)
 
-See [full report](earn/Lido%20GGV%20Migrator%20V2%20Security%20Audit%20Report.pdf) for more details.
+See [full report](earn/2026-05-27_MixBytes_Lido-GGV-Migrator-V2.pdf) for more details.
 
 ### 06-2026 MixBytes AAVE Migrator Security Audit
 
@@ -1625,9 +1625,9 @@ Audited at commit [`82b1849`](https://github.com/mellow-finance/flexible-vaults/
 
 - Total Issues: 0
 
-See [full report](earn/Lido%20AAVE%20Migrator%20Security%20Audit%20Report.pdf) for more details.
+See [full report](earn/2026-06-08_MixBytes_Lido-AAVE-Migrator.pdf) for more details.
 
-### 07-2026 MixBytes Mellow Finance SyncRedeemQueue Security Audit
+### 07-2026 MixBytes Mellow SyncRedeemQueue Security Audit
 
 Audited at commit [`69bbaf1`](https://github.com/mellow-finance/flexible-vaults/tree/69bbaf17530dc5127ecf9049cceaab141f516a1e).
 
@@ -1637,7 +1637,7 @@ Audited at commit [`69bbaf1`](https://github.com/mellow-finance/flexible-vaults/
 - Medium Issues: 3 (3 Acknowledged)
 - Low Issues: 8 (8 Acknowledged)
 
-See [full report](earn/Mellow%20Finance%20SyncRedeemQueue%20Security%20Audit%20Report.pdf) for more details.
+See [full report](earn/2026-07-15_MixBytes_Mellow-SyncRedeemQueue.pdf) for more details.
 
 ## Lido on Polygon PoS
 
