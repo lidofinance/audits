@@ -1221,6 +1221,14 @@ A security consultation for a hotfix to the Lido Oracle V8, fixing an over-eject
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_3%20Security%20Consultation%20Report.pdf) for more details.
 
+### 07-2026 Mixbytes Lido Oracle v8.0.4 Audit
+
+Audited at commit [`399a1c9e`](https://github.com/lidofinance/lido-oracle/tree/399a1c9e3ac6cd8a91337d84762319abc67d4340).
+
+An audit report for a hotfix to the Lido Oracle V8, replacing the BLS signature verification library used for deposit proof-of-possession checks and adding structured logging across the pending-deposit accounting path. Previous [report for V8.0.3](#07-2026-composable-security-lido-oracle-v803-security-consultation).
+
+See [full report](Mixbytes%20Lido%20Oracle%20Security%20Audit%20Report%20V8.0.4.pdf) for more details.
+
 ### 07-2026 Certora Staking Router v3 Audit
 
 Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
