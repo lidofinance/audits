@@ -1227,7 +1227,7 @@ Audited at commit [`399a1c9e`](https://github.com/lidofinance/lido-oracle/tree/3
 
 An audit report for a hotfix to the Lido Oracle V8, replacing the BLS signature verification library used for deposit proof-of-possession checks and adding structured logging across the pending-deposit accounting path. Previous [report for V8.0.3](#07-2026-composable-security-lido-oracle-v803-security-consultation).
 
-See [full report](Mixbytes%20Lido%20Oracle%20Security%20Audit%20Report%20V8.0.4.pdf) for more details.
+See [full report](Mixbytes%20Lido%20Oracle%20Security%20Audit%20Report%2007-25.pdf) for more details.
 
 ### 07-2026 Certora Staking Router v3 Audit
 
