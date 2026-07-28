@@ -1221,6 +1221,20 @@ A security consultation for a hotfix to the Lido Oracle V8, fixing an over-eject
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_3%20Security%20Consultation%20Report.pdf) for more details.
 
+### 07-2026 MixBytes Off-chain Audit of Lido Oracle v8.0.5
+
+Audited at commit [`61231c3`](https://github.com/lidofinance/lido-oracle/tree/61231c3d21587a1d1cddf7cb7d3b0a29b1ebfd69).
+
+An interim security review of the Lido Oracle v8.0.5 change set, which adds reconciliation checks between the Keys API, the Consensus Layer and the Staking Router in the Accounting Oracle path, and fixes the exit ordering used by the Validator Exit Bus Oracle. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+- Total Issues: 7 (1 Fixed, 6 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Acknowledged)
+- Low Issues: 5 (1 Fixed, 4 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Oracle%20v8.0.5%20Security%20Audit%20Report%2007-2026.pdf) for more details.
+
 ### 07-2026 Certora Staking Router v3 Audit
 
 Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
