@@ -1278,6 +1278,20 @@ An audit of Easy Track factories supporting the Staking Router v3, Community Sta
 
 See [full report](MixBytes%20Lido%20Easy%20Track%20Factories%20%28SRv3%20CSMv3%20CMv2%29%20Security%20Audit%20Report%2007-2026.pdf) for more details.
 
+### 07-2026 Ack3 Lido NEST Audit
+
+Audited at commit [`10a2499`](https://github.com/lidofinance/stonks/tree/10a249971099be1b36c27f43a3f0a520389fb62e) for the [stonks repository](https://github.com/lidofinance/stonks) and commit [`dc9066b`](https://github.com/lidofinance/core/tree/dc9066b6f9b5c6c3b65f4a4aac338427198f0e98) for the [core repository](https://github.com/lidofinance/core).
+
+- Total Issues: 16 (8 Fixed, 8 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 9 (5 Fixed, 4 Acknowledged)
+- Warnings: 3 (3 Acknowledged)
+- Info Issues: 4 (3 Fixed, 1 Acknowledged)
+
+See [full report](Ack3%20Lido%20NEST%20Audit%20Report%2007-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
