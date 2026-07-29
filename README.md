@@ -1235,6 +1235,14 @@ An interim security review of the Lido Oracle v8.0.5 change set, which adds reco
 
 See [full report](MixBytes%20Lido%20Oracle%20v8.0.5%20Security%20Audit%20Report%2007-2026.pdf) for more details.
 
+### 07-2026 Composable Security Lido Oracle v8.0.5 Security Consultation
+
+Audited at commit [`2b29cfdc`](https://github.com/lidofinance/lido-oracle/tree/2b29cfdc7e3c8678fda7fa63e3ec78f4aa370f70).
+
+A security consultation for the Lido Oracle V8.0.5, covering the handling of operator groups in which all internal Curated Module v2 node operators have zero weight, the additional Keys API consistency checks, the handling of critical key-count discrepancies and possible validator deposit front-running, and the diagnostic logging for pending deposits using Lido withdrawal credentials. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8_0_5%20Security%20Consultation%20Report.pdf) for more details.
+
 ### 07-2026 Certora Staking Router v3 Audit
 
 Audited at commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
