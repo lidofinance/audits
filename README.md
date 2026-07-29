@@ -487,7 +487,7 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 
 ### 12-2023 Pessimistic Lido Stonks Audit
 
-Audited at commit [`ad6a9e8`](https://github.com/lidofinance/stonks/tree/ad6a9e83c095f5052e404bc13585ad2c752f242f).
+Audited at commit [`10a2499`](https://github.com/lidofinance/stonks/tree/10a249971099be1b36c27f43a3f0a520389fb62e).
 
 This audit report covers the code up to the audited commit above. For release version audit please go to [03-2024 Ackee Blockchain Lido Stonks Audit](#03-2024-ackee-blockchain-lido-stonks-audit).
 
