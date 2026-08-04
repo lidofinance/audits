@@ -1314,6 +1314,18 @@ Audited at commit [`10a2499`](https://github.com/lidofinance/stonks/tree/10a2499
 
 See [full report](Ack3%20Lido%20NEST%20Audit%20Report%2007-2026.pdf) for more details.
 
+### 08-2026 MixBytes Lido TokenRateNotifier Security Audit
+
+Audited at commit [`dc9066b`](https://github.com/lidofinance/core/tree/dc9066b6f9b5c6c3b65f4a4aac338427198f0e98).
+
+- Total Issues: 1 (1 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+
+See [full report](MixBytes%20Lido%20TokenRateNotifier%20Security%20Audit%20Report%2008-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
