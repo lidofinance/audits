@@ -1522,6 +1522,32 @@ Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [Octo
 
 See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
 
+### 08-2026 MixBytes Lido L2 Direct Staking Security Audit
+
+Audited at commit [`3d1d484`](https://github.com/lidofinance/l2-direct-staking/tree/3d1d484c31d39881cdbe8423614e3043e89e027f).
+
+- Total Issues: 4 (3 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 4 (3 Fixed, 1 Acknowledged)
+
+See [full report](L2/Direct-Staking-2026-08-MixBytes-Security-Audit-Report.pdf) for more details.
+
+### 08-2026 MixBytes Chainlink CCIP Linea Adapter Security Audit
+
+> NB: It is not authored by Lido. Used by Lido Direct Staking Automation contracts*.
+
+Audited at commit [`34344f5`](https://github.com/Aphyla/chainlink-csr/tree/34344f5b247de110c74c18df6b445ab1cb238f5e).
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Acknowledged)
+
+See [full report](L2/Direct-Staking-Linea-Adapter-2026-08-MixBytes-Security-Audit-Report.pdf) for more details.
+
 ## Lido Earn
 
 Audits of the Mellow vault infrastructure powering Lido Earn and of the Lido-side integration contracts.
