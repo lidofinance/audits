@@ -1522,6 +1522,20 @@ Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [Octo
 
 See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
 
+### 02-2025 Trail of Bits Chainlink Custom Senders and Receivers Security Review
+
+> NB: It is not authored by Lido. Used by Lido Direct Staking Automation contracts.
+
+Audited at commit [`8e08c07`](https://github.com/Aphyla/chainlink-csr/tree/8e08c07ec55bbe32f447b450d915f6813eac6cc7).
+
+- Total Issues: 7 (6 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 2 (1 Fixed, 1 Acknowledged)
+- Informational Issues: 3 (3 Fixed)
+
+See [full report](L2/Direct-Staking-2025-02-Trail-of-Bits-Chainlink-CSR-Security-Review.pdf) for more details. The report is also available from [Trail of Bits publications](https://github.com/trailofbits/publications/blob/master/reviews/2025-02-chainlink-customsendersreceivers-securityreview.pdf).
+
 ### 08-2026 MixBytes Lido L2 Direct Staking Security Audit
 
 Audited at commit [`3d1d484`](https://github.com/lidofinance/l2-direct-staking/tree/3d1d484c31d39881cdbe8423614e3043e89e027f).
