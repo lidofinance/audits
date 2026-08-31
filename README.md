@@ -1326,6 +1326,20 @@ Audited at commit [`dc9066b`](https://github.com/lidofinance/core/tree/dc9066b6f
 
 See [full report](MixBytes%20Lido%20TokenRateNotifier%20Security%20Audit%20Report%2008-2026.pdf) for more details.
 
+### 08-2026 MixBytes Off-chain Audit of Lido Oracle v8.0.6
+
+Audited at commit [`57a5f60`](https://github.com/lidofinance/lido-oracle/tree/57a5f6089dd8ed9602000ef96a8f2b1f19caa704).
+
+An interim security review of the Lido Oracle v8.0.6 hotfix, which replaces the hardcoded transaction gas ceiling with a configurable `TX_GAS_LIMIT` defaulting to the [EIP-7825](https://eips.ethereum.org/EIPS/eip-7825) transaction gas cap, and bounds the size of Validator Exit Bus Oracle exit reports so that they stay under it. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+- Total Issues: 2 (2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Acknowledged)
+
+See [full report](MixBytes%20Lido%20Oracle%20v8.0.6%20Security%20Audit%20Report%2008-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
