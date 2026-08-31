@@ -1346,12 +1346,12 @@ Audited at commit [`5572991`](https://github.com/lidofinance/execution-delegatio
 
 An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integration, including a retest.
 
-- Total Issues: 4 (4 Acknowledged)
+- Total Issues: 10 (10 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
 - Medium Issues: 0
 - Low Issues: 4 (4 Acknowledged)
-- Recommendations: 6 (6 Acknowledged)
+- Info Issues: 6 (6 Acknowledged)
 
 See [full report](Composable%20Security%20Lido%20EDF%20On-chain%20Audit%20Report%2008-2026.pdf) for more details.
 
