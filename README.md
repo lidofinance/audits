@@ -1355,6 +1355,20 @@ An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integrati
 
 See [full report](Composable%20Security%20Lido%20EDF%20On-chain%20Audit%20Report%2008-2026.pdf) for more details.
 
+### 09-2026 MixBytes Lido Easy Track Factory for Deposit Reserve Target management Security Audit
+
+Audited at commit [`99bd732`](https://github.com/lidofinance/easy-track/tree/99bd7322ed10cc81f82aa5904e0e62827ccadea5).
+
+An audit of Easy Track factory for Deposit Reserve Target management.
+
+- Total Issues: 0
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+
+See [full report](MixBytes%20Easy%20Track%20for%20Deposit%20Reserve%20Target%20management%20Audit%20Report%2009-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
