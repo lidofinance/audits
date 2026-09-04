@@ -1581,7 +1581,7 @@ The sources are also available at [Lido chainlink-csr mirror](https://github.com
 See [full report](L2/Direct-Staking-2025-02-Trail-of-Bits-Chainlink-CSR-Security-Review.pdf) for more details.
 The report is also available from [Trail of Bits publications](https://github.com/trailofbits/publications/blob/master/reviews/2025-02-chainlink-customsendersreceivers-securityreview.pdf).
 
-### 08-2026 MixBytes Lido L2 Direct Staking Security Audit
+### 09-2026 MixBytes Lido L2 Direct Staking Security Audit
 
 Audited at commit [`3d1d484`](https://github.com/lidofinance/l2-direct-staking/tree/3d1d484c31d39881cdbe8423614e3043e89e027f).
 
@@ -1591,7 +1591,7 @@ Audited at commit [`3d1d484`](https://github.com/lidofinance/l2-direct-staking/t
 - Medium Issues: 0
 - Low Issues: 4 (3 Fixed, 1 Acknowledged)
 
-See [full report](L2/Direct-Staking-2026-08-MixBytes-Security-Audit-Report.pdf) for more details.
+See [full report](L2/Direct-Staking-2026-09-MixBytes-Security-Audit-Report.pdf) for more details.
 
 ### 08-2026 MixBytes Chainlink CCIP Linea Adapter Security Audit
 
