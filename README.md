@@ -1344,7 +1344,7 @@ See [full report](MixBytes%20Lido%20Oracle%20v8.0.6%20Security%20Audit%20Report%
 
 Audited at commit [`5572991`](https://github.com/lidofinance/execution-delegation-framework/tree/557299104ad3eb1a74198933bd016328c490e276) for the [execution-delegation-framework repository](https://github.com/lidofinance/execution-delegation-framework) and commit [`8c4cee2`](https://github.com/lidofinance/core/tree/8c4cee2be76a4ed8067026e30b5bdc64a4e3cb29) for the [core repository](https://github.com/lidofinance/core).
 
-An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integration, including a retest.
+An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integration, including a retest. See also the [MixBytes audit](#09-2026-mixbytes-lido-edf-on-chain-audit) of the same scope.
 
 - Total Issues: 10 (10 Acknowledged)
 - Critical Issues: 0
