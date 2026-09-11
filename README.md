@@ -1384,6 +1384,20 @@ A security review of the Lido Oracle v8.1 change set, which adds support for the
 
 See [full report](Composable%20Security%20Lido%20Oracle%20V8_1%20Audit%20Report.pdf) for more details.
 
+### 09-2026 MixBytes Lido EDF On-chain Audit
+
+Audited at commit [`5572991`](https://github.com/lidofinance/execution-delegation-framework/tree/557299104ad3eb1a74198933bd016328c490e276) for the [execution-delegation-framework repository](https://github.com/lidofinance/execution-delegation-framework) and commit [`8c4cee2`](https://github.com/lidofinance/core/tree/8c4cee2be76a4ed8067026e30b5bdc64a4e3cb29) for the [core repository](https://github.com/lidofinance/core).
+
+An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integration, including mainnet deployment verification. See also the [Composable Security audit](#08-2026-composable-security-lido-edf-on-chain-audit) of the same scope.
+
+- Total Issues: 6 (6 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 6 (6 Acknowledged)
+
+See [full report](MixBytes%20Lido%20EDF%20On-chain%20Audit%20Report%2009-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
