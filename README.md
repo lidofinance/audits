@@ -487,7 +487,7 @@ See [full report](Oxorio%20Lido%20Easy%20Track%20Smart%20Contracts%20Security%20
 
 ### 12-2023 Pessimistic Lido Stonks Audit
 
-Audited at commit [`10a2499`](https://github.com/lidofinance/stonks/tree/10a249971099be1b36c27f43a3f0a520389fb62e).
+Audited at commit [`ad6a9e8`](https://github.com/lidofinance/stonks/tree/ad6a9e83c095f5052e404bc13585ad2c752f242f).
 
 This audit report covers the code up to the audited commit above. For release version audit please go to [03-2024 Ackee Blockchain Lido Stonks Audit](#03-2024-ackee-blockchain-lido-stonks-audit).
 
@@ -971,7 +971,9 @@ See [full report](Consensys%20Diligence%20Lido%20V3%20Security%20Audit%20-%2011-
 
 ### 12-2025 Ackee Blockchain Stonks 2.0 Audit
 
-Audited at commit [`0669c4a`](https://github.com/lidofinance/stonks/tree/0669c4a50660912785e18861d9ef8108a86a3552).
+Audited at commit [`10a2499`](https://github.com/lidofinance/stonks/tree/10a249971099be1b36c27f43a3f0a520389fb62e).
+
+> NB: Revision 2.0 of the report reviewed the changes from [`4c6d195`](https://github.com/lidofinance/stonks/tree/4c6d1955268b8c97df5fd93ea8912878e07a1252) to [`10a2499`](https://github.com/lidofinance/stonks/tree/10a249971099be1b36c27f43a3f0a520389fb62e) for the Lido NEST integration.
 
 - Total Issues: 17 (17 Fixed)
 - Critical Issues: 0
@@ -1582,7 +1584,7 @@ See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more de
 
 ### 02-2025 Trail of Bits Chainlink Custom Senders and Receivers Security Review
 
-> NB: It is not authored by Lido. Used by Lido Direct Staking Automation contracts.
+> NB: This code is not authored by Lido. It is used by Lido Direct Staking Automation contracts.
 
 Audited at commit [`8e08c07`](https://github.com/Aphyla/chainlink-csr/tree/8e08c07ec55bbe32f447b450d915f6813eac6cc7).
 The sources are also available at [Lido chainlink-csr mirror](https://github.com/lidofinance/chainlink-csr).
@@ -1610,7 +1612,7 @@ See [full report](L2/Direct-Staking-2026-09-MixBytes-Security-Audit-Report.pdf) 
 
 ### 08-2026 MixBytes Chainlink CCIP Linea Adapter Security Audit
 
-> NB: It is not authored by Lido. Used by Lido Direct Staking Automation contracts*.
+> NB: This code is not authored by Lido. It is used by Lido Direct Staking Automation contracts.
 
 Audited at commit [`34344f5`](https://github.com/Aphyla/chainlink-csr/tree/34344f5b247de110c74c18df6b445ab1cb238f5e).
 
