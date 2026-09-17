@@ -1666,6 +1666,14 @@ Audited at commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/
 
 See [full report](earn/2025-09-03_Nethermind_Mellow-Core-Vaults.pdf) for more details.
 
+### 09-2025 Nethermind Mellow Core Vaults Deployment Verification (NM-0587)
+
+Audited at commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/tree/72f689f965e4ac1a4c2bcfb645a8b5416cf740c7).
+
+Verification of 37 Mellow Core Vaults contracts deployed on Ethereum mainnet: bytecode against the audited commit, factory implementations, proxy admin ownership, and deployment script parameters.
+
+See [full report](earn/2025-09-12_Nethermind_Mellow-Core-Vaults-Deployment-Verification.pdf) for more details.
+
 ### 10-2025 Nethermind Mellow Migrator Security Review (NM-0682)
 
 Audited at commit [`a04e285`](https://github.com/mellow-finance/flexible-vaults/tree/a04e285fe859dcd720e8b827628a98d0cc46c02c).
