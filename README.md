@@ -1400,6 +1400,20 @@ An audit of the Execution Delegation Framework (LIP-37) and the DSM v5 integrati
 
 See [full report](MixBytes%20Lido%20EDF%20On-chain%20Audit%20Report%2009-2026.pdf) for more details.
 
+### 10-2026 MixBytes Off-chain Audit of Lido Oracle v8.2.0
+
+Audited at commit [`fff59c8`](https://github.com/lidofinance/lido-oracle/tree/fff59c898eebbcc41790b05b03e884d2f5f53fc0).
+
+An interim security review of the Lido Oracle v8.2.0 change set, which adds a performance oracle instance for the Community Staking Module 0x02, refactors the environment-variable validation for staking module oracles, and logs full tracebacks for Web3 exceptions swallowed by the cycle handler. The review also verified that the published `lidofinance/oracle:8.2.0` Docker image matches the audited commit. Previous [report for V8.1](#09-2026-composable-security-lido-oracle-v81-security-audit).
+
+- Total Issues: 0
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+
+See [full report](MixBytes%20Lido%20Oracle%20v8.2.0%20Diff%20Security%20Audit%20Report%2010-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
