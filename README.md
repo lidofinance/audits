@@ -1414,6 +1414,22 @@ An interim security review of the Lido Oracle v8.2.0 change set, which adds a pe
 
 See [full report](MixBytes%20Lido%20Oracle%20v8.2.0%20Diff%20Security%20Audit%20Report%2010-2026.pdf) for more details.
 
+### 10-2026 MixBytes Lido CSM 0x02 Deployment Verification
+
+Deployment verified at commit [`715c871`](https://github.com/lidofinance/staking-modules/tree/715c871d64a6771dacbc483528da58f1a3c734ad), against the code audited at commit [`4d3de66`](https://github.com/lidofinance/staking-modules/tree/4d3de6658499e1c1774951780a97d7ae25ca18b8).
+
+Mainnet deployment verification of CSM 0x02, covering bytecode equivalence to the [Certora](#06-2026-certora-lido-csm-v3-and-cm-v2-audit) and [Statemind](#06-2026-statemind-lido-csm-v3-and-cm-v2-audit) audited code, configuration, initialization, and access control across 27 deployed addresses. No inconsistencies were found.
+
+See [full report](Lido%20CSM%200x02%20Deployment%20Verification%20Report.pdf) for more details.
+
+### 10-2026 MixBytes Lido Easy Track Factories CSM 0x02 Deployment Verification
+
+Deployment verified against audited commit [`b5d7455`](https://github.com/lidofinance/easy-track/tree/b5d74557448a7f65ea74abdc09ff954bd113c8c3).
+
+Mainnet deployment verification of three CSM 0x02 Easy Track factories, covering bytecode equivalence to the [previously audited code](#07-2026-mixbytes-lido-easy-track-factories-srv3-csmv3-cmv2-security-audit), constructor configuration, access control, and integration wiring. All checked values matched.
+
+See [full report](Lido%20Easy%20Track%20Factories%20CSM%200x02%20Deployment%20Verification%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
