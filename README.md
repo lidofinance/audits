@@ -1762,6 +1762,16 @@ Audited at commit [`685be83`](https://github.com/mellow-finance/flexible-vaults/
 
 See [full report](earn/2026-01-21_Nethermind_NM-0812_Mellow.pdf) for more details.
 
+### 02-2026 Nethermind MellowAccountV1 Security Review (NM-0829)
+
+Audited at commit [`6ca2926`](https://github.com/mellow-finance/flexible-vaults/tree/6ca2926e5cc2d5a17143c19ede2cb4fd5df58280).
+
+Review of MellowAccountV1, a curator smart account that executes vault and subvault operations through multicall.
+
+- Total Issues: 0
+
+See [full report](earn/2026-02-09_Nethermind_NM-0829_Mellow.pdf) for more details.
+
 ### 03-2026 Nethermind Mellow SyncDepositQueue Re-Review (NM-0758)
 
 Audited at commit [`c9c7181`](https://github.com/mellow-finance/flexible-vaults/tree/c9c71818f0a8bead183f9860db3b8bbceb7b8f37).
