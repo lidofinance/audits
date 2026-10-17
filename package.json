@@ -30,13 +30,13 @@
     "contracts"
   ],
   "devDependencies": {
-    "@biomejs/biome": "2.5.14",
+    "@biomejs/biome": "2.5.15",
     "@commitlint/cli": "^21.2.3",
     "@commitlint/config-conventional": "^21.0.2",
     "husky": "^9.1.7",
-    "lint-staged": "^17.5.1",
+    "lint-staged": "^17.6.0",
     "markdown-link-check": "^3.15.0",
-    "prettier": "^3.9.8"
+    "prettier": "^3.9.9"
   },
   "license": "UNLICENSED",
   "homepage": "https://github.com/lidofinance/audits#readme"
