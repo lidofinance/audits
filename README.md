@@ -1851,6 +1851,24 @@ Audited at commit [`69bbaf1`](https://github.com/mellow-finance/flexible-vaults/
 
 See [full report](earn/2026-07-15_MixBytes_Mellow-SyncRedeemQueue.pdf) for more details.
 
+## Lido Lend
+
+### 10-2026 Cyfrin Lido Lend Security Audit
+
+Audited at commits [`4d55f1d`](https://github.com/lidofinance/lend/tree/4d55f1dd98a0f7712543965c66e03c963a004263) (lend), [`97af4c3`](https://github.com/lidofinance/lend-irm/tree/97af4c39c51f1e023d8025319f34a1658036066c) (lend-irm) and [`23416c4`](https://github.com/lidofinance/lend-markets/tree/23416c43c4038ea3c00a13d6203949c8f88905cc) (lend-markets).
+
+An audit of Lido Lend, an over-collateralized lending protocol built on a Morpho Blue fork with Lido-specific market extensions.
+
+- Total Issues: 62 (31 Resolved, 31 Acknowledged)
+- Critical Risk Issues: 0
+- High Risk Issues: 0
+- Medium Risk Issues: 8 (4 Resolved, 4 Acknowledged)
+- Low Risk Issues: 27 (17 Resolved, 10 Acknowledged)
+- Informational Issues: 21 (8 Resolved, 13 Acknowledged)
+- Gas Optimizations: 6 (2 Resolved, 4 Acknowledged)
+
+See [full report](lend/2026-10-26_Cyfrin_Lido-Lend.pdf) for more details.
+
 ## Lido on Polygon PoS
 
 > [!WARNING]
