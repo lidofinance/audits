@@ -1859,13 +1859,15 @@ Audited at commits [`4d55f1d`](https://github.com/lidofinance/lend/tree/4d55f1dd
 
 An audit of Lido Lend, an over-collateralized lending protocol built on a Morpho Blue fork with Lido-specific market extensions.
 
-- Total Issues: 62 (31 Resolved, 31 Acknowledged)
+- Total Issues: 62 (30 Resolved, 1 Partially Resolved, 31 Acknowledged)
 - Critical Risk Issues: 0
 - High Risk Issues: 0
 - Medium Risk Issues: 8 (4 Resolved, 4 Acknowledged)
 - Low Risk Issues: 27 (17 Resolved, 10 Acknowledged)
-- Informational Issues: 21 (8 Resolved, 13 Acknowledged)
+- Informational Issues: 21 (7 Resolved, 1 Partially Resolved, 13 Acknowledged)
 - Gas Optimizations: 6 (2 Resolved, 4 Acknowledged)
+
+The counts follow the detailed findings register: I-19 is partially resolved, while the report's summary table counts it as resolved.
 
 See [full report](lend/2026-10-26_Cyfrin_Lido-Lend.pdf) for more details.
 
@@ -1908,11 +1910,11 @@ See [full report](lend/2026-11-10-mixbytes-lido-lend-easy-track-factories-audit-
 ## Lido on Polygon PoS
 
 > [!WARNING]
-> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
 
-Audited at commit [`1d8e469`](https://github.com/Shard-Labs/PoLido/tree/1d8e4696d9a225f9079bcaff1cb8a60c8eff8131).
+Audited at commit `1d8e4696d9a225f9079bcaff1cb8a60c8eff8131` of the Shard-Labs/PoLido repository, which is no longer publicly available.
 
 - Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
 - Critical Issues: 0
