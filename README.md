@@ -1869,6 +1869,42 @@ An audit of Lido Lend, an over-collateralized lending protocol built on a Morpho
 
 See [full report](lend/2026-10-26_Cyfrin_Lido-Lend.pdf) for more details.
 
+### 11-2026 MixBytes Lido Lend Guardian Daemon SDK Security Audit
+
+Audited at commit [`b566e01`](https://github.com/lidofinance/lend-guardian-daemon/tree/b566e019684568e1d505ff25f77b3da4e61fe095).
+
+An audit of the Lido Lend Guardian Daemon SDK, an off-chain TypeScript SDK used by guardians to screen Lido Lend positions and submit reports on-chain.
+
+- Total Issues: 16 (12 Fixed, 4 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 8 (8 Fixed)
+- Low Issues: 7 (3 Fixed, 4 Acknowledged)
+
+See [full report](lend/2026-11-9-mixbytes-lido-lend-guardian-daemon-sdk.pdf) for more details.
+
+### 11-2026 Cyfrin Lido Lend Core Deployment Verification
+
+Verified at deployment commit [`9c0ba34`](https://github.com/lidofinance/lend-markets/tree/9c0ba34580ab5cff4354be8cb701419fb02b65d5) (lend-markets).
+
+Stage 1 verification of 14 Lido Lend core contracts deployed on Ethereum mainnet: runtime bytecode, constructor arguments and immutables against the deployment commit, and alignment of the in-scope sources with [the audited commits](#10-2026-cyfrin-lido-lend-security-audit). Stage 2 (market-specific deployments) is pending.
+
+See [full report](lend/2026-11-10-cyfrin-lido-lend-core-deployment-verification.pdf) for more details.
+
+### 11-2026 MixBytes Lido Lend Easy Track Factories Security Audit
+
+Audited at commit [`4caa911`](https://github.com/lidofinance/easy-track/tree/4caa9117435631ef352d263c901fa9e26cfccfb4).
+
+An audit of the seven Easy Track EVMScript factories (and the Preseeder) that give a trusted committee bounded, delayed governance paths over Lido Lend. The report also includes verification of the contracts deployed on Ethereum mainnet against the audited commit.
+
+- Total Issues: 11 (1 Fixed, 10 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 11 (1 Fixed, 10 Acknowledged)
+
+See [full report](lend/2026-11-10-mixbytes-lido-lend-easy-track-factories-audit-report.pdf) for more details.
+
 ## Lido on Polygon PoS
 
 > [!WARNING]
