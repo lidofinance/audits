@@ -1868,11 +1868,11 @@ See [full report](earn/2026-07-15_MixBytes_Mellow-SyncRedeemQueue.pdf) for more 
 ## Lido on Polygon PoS
 
 > [!WARNING]
-> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
 
-Audited at commit [`1d8e469`](https://github.com/Shard-Labs/PoLido/tree/1d8e4696d9a225f9079bcaff1cb8a60c8eff8131).
+Audited at commit `1d8e4696d9a225f9079bcaff1cb8a60c8eff8131` of the Shard-Labs/PoLido repository (no longer publicly available).
 
 - Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
 - Critical Issues: 0
