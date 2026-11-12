@@ -1430,6 +1430,20 @@ Mainnet deployment verification of three CSM 0x02 Easy Track factories, covering
 
 See [full report](Lido%20Easy%20Track%20Factories%20CSM%200x02%20Deployment%20Verification%20Report.pdf) for more details.
 
+### 11-2026 MixBytes Lido CMv2 Top-Up Control Security Audit
+
+Audited at commit [`7bdcfb6`](https://github.com/lidofinance/staking-modules/tree/7bdcfb631b13d24e8fae3b5ba0e11d4be07b84f9), as a diff against commit [`31e9f1f`](https://github.com/lidofinance/staking-modules/tree/31e9f1f4ea410b541293648c7bfb7dbed9b372bb).
+
+A security review of the Curated Module v2 change that adds per-operator top-up enablement flags and weighted allocation for topping up existing 0x02 validators. The review also includes mainnet deployment verification of the new `CuratedModule` implementation and `CuratedDepositAllocator` library. Previous [CM v2 audits](#06-2026-certora-lido-csm-v3-and-cm-v2-audit).
+
+- Total Issues: 0
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+
+See [full report](MixBytes%20Lido%20CMv2%20Top-Up%20Control%20Security%20Audit%20Report%2011-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
@@ -1854,11 +1868,11 @@ See [full report](earn/2026-07-15_MixBytes_Mellow-SyncRedeemQueue.pdf) for more 
 ## Lido on Polygon PoS
 
 > [!WARNING]
-> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
 
-Audited at commit [`1d8e469`](https://github.com/Shard-Labs/PoLido/tree/1d8e4696d9a225f9079bcaff1cb8a60c8eff8131).
+Audited at commit `1d8e4696d9a225f9079bcaff1cb8a60c8eff8131` of the Shard-Labs/PoLido repository (no longer publicly available).
 
 - Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
 - Critical Issues: 0
