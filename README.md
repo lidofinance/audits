@@ -1444,6 +1444,20 @@ A security review of the Curated Module v2 change that adds per-operator top-up 
 
 See [full report](MixBytes%20Lido%20CMv2%20Top-Up%20Control%20Security%20Audit%20Report%2011-2026.pdf) for more details.
 
+### 11-2026 MixBytes Lido CuratedVerifier (CMv2) Security Audit
+
+Audited at commit [`8845634`](https://github.com/lidofinance/staking-modules/tree/88456343a59d4cd98d19b75e5fe74ea0fb684595), as a diff against `Verifier.sol` at the same commit.
+
+A security review of `CuratedVerifier`, the Curated Module v2 verifier. It replaces the withdrawal-proof path of `Verifier` with a withdrawn proof that reports a non-slashed validator as withdrawn once its `withdrawable_epoch` is reached, to support outgoing consolidations. The review also includes mainnet deployment verification of the new `CuratedVerifier` contract.
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Acknowledged)
+
+See [full report](MixBytes%20Lido%20CuratedVerifier%20%28CMv2%29%20Security%20Audit%20Report%2011-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
