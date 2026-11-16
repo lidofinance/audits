@@ -1851,14 +1851,70 @@ Audited at commit [`69bbaf1`](https://github.com/mellow-finance/flexible-vaults/
 
 See [full report](earn/2026-07-15_MixBytes_Mellow-SyncRedeemQueue.pdf) for more details.
 
+## Lido Lend
+
+### 10-2026 Cyfrin Lido Lend Security Audit
+
+Audited at commits [`4d55f1d`](https://github.com/lidofinance/lend/tree/4d55f1dd98a0f7712543965c66e03c963a004263) (lend), [`97af4c3`](https://github.com/lidofinance/lend-irm/tree/97af4c39c51f1e023d8025319f34a1658036066c) (lend-irm) and [`23416c4`](https://github.com/lidofinance/lend-markets/tree/23416c43c4038ea3c00a13d6203949c8f88905cc) (lend-markets).
+
+An audit of Lido Lend, an over-collateralized lending protocol built on a Morpho Blue fork with Lido-specific market extensions.
+
+- Total Issues: 62 (30 Resolved, 1 Partially Resolved, 31 Acknowledged)
+- Critical Risk Issues: 0
+- High Risk Issues: 0
+- Medium Risk Issues: 8 (4 Resolved, 4 Acknowledged)
+- Low Risk Issues: 27 (17 Resolved, 10 Acknowledged)
+- Informational Issues: 21 (7 Resolved, 1 Partially Resolved, 13 Acknowledged)
+- Gas Optimizations: 6 (2 Resolved, 4 Acknowledged)
+
+The counts follow the detailed findings register: I-19 is partially resolved, while the report's summary table counts it as resolved.
+
+See [full report](lend/2026-10-26_Cyfrin_Lido-Lend.pdf) for more details.
+
+### 11-2026 MixBytes Lido Lend Guardian Daemon SDK Security Audit
+
+Audited at commit [`b566e01`](https://github.com/lidofinance/lend-guardian-daemon/tree/b566e019684568e1d505ff25f77b3da4e61fe095).
+
+An audit of the Lido Lend Guardian Daemon SDK, an off-chain TypeScript SDK used by guardians to screen Lido Lend positions and submit reports on-chain.
+
+- Total Issues: 16 (12 Fixed, 4 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 8 (8 Fixed)
+- Low Issues: 7 (3 Fixed, 4 Acknowledged)
+
+See [full report](lend/2026-11-9-mixbytes-lido-lend-guardian-daemon-sdk.pdf) for more details.
+
+### 11-2026 Cyfrin Lido Lend Core Deployment Verification
+
+Verified at deployment commit [`9c0ba34`](https://github.com/lidofinance/lend-markets/tree/9c0ba34580ab5cff4354be8cb701419fb02b65d5) (lend-markets).
+
+Stage 1 verification of 14 Lido Lend core contracts deployed on Ethereum mainnet: runtime bytecode, constructor arguments and immutables against the deployment commit, and alignment of the in-scope sources with [the audited commits](#10-2026-cyfrin-lido-lend-security-audit). The report also covers supplementary bytecode verification of two dependency deployments outside the audit scope, Bundler3 and CircuitBreaker. Stage 2 (market-specific deployments) is pending.
+
+See [full report](lend/2026-11-11-cyfrin-lido-lend-core-deployment-verification.pdf) for more details.
+
+### 11-2026 MixBytes Lido Lend Easy Track Factories Security Audit
+
+Audited at commit [`4caa911`](https://github.com/lidofinance/easy-track/tree/4caa9117435631ef352d263c901fa9e26cfccfb4).
+
+An audit of the seven Easy Track EVMScript factories (and the Preseeder) that give a trusted committee bounded, delayed governance paths over Lido Lend. The report also includes verification of the contracts deployed on Ethereum mainnet against the audited commit.
+
+- Total Issues: 11 (1 Fixed, 10 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 11 (1 Fixed, 10 Acknowledged)
+
+See [full report](lend/2026-11-10-mixbytes-lido-lend-easy-track-factories-audit-report.pdf) for more details.
+
 ## Lido on Polygon PoS
 
 > [!WARNING]
-> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
 
-Audited at commit [`1d8e469`](https://github.com/Shard-Labs/PoLido/tree/1d8e4696d9a225f9079bcaff1cb8a60c8eff8131).
+Audited at commit `1d8e4696d9a225f9079bcaff1cb8a60c8eff8131` of the Shard-Labs/PoLido repository, which is no longer publicly available.
 
 - Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
 - Critical Issues: 0
