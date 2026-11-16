@@ -1458,6 +1458,16 @@ A security review of `CuratedVerifier`, the Curated Module v2 verifier. It repla
 
 See [full report](MixBytes%20Lido%20CuratedVerifier%20%28CMv2%29%20Security%20Audit%20Report%2011-2026.pdf) for more details.
 
+### 11-2026 MixBytes Lido CMv2 ConsolidationMigrator Deployment Verification
+
+Deployment verified against audited commit [`af095e4`](https://github.com/lidofinance/core/tree/af095e48bbc1c3841c2c9936219c8461af01056b).
+
+Mainnet deployment verification of the new `ConsolidationMigrator` instance that enables validator consolidations within the Curated Module v2, covering bytecode equivalence of the implementation and `OssifiableProxy` to the [Certora](#07-2026-certora-staking-router-v3-audit) and [Statemind](#07-2026-statemind-staking-router-v3-audit) audited code.
+
+No inconsistencies were found.
+
+See [full report](MixBytes%20Lido%20CMv2%20ConsolidationMigrator%20Deployment%20Verification%20Report%2011-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
