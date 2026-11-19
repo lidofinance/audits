@@ -1468,6 +1468,14 @@ No inconsistencies were found.
 
 See [full report](MixBytes%20Lido%20CMv2%20ConsolidationMigrator%20Deployment%20Verification%20Report%2011-2026.pdf) for more details.
 
+### 11-2026 Composable Security Lido Oracle v8.3.0 Security Consultation
+
+Audited at commit [`7d772da0`](https://github.com/lidofinance/lido-oracle/tree/7d772da0c5a05c284490a5e0962ae40b38d768ed).
+
+A security consultation for the Lido Oracle v8.3.0 fix that excludes pending deposits with builder withdrawal credentials (`0xb0`) from the pending balance credited to Lido validators and staking vaults. Before the fix, such deposits could overstate a vault's total value, as the Gloas fork credits them to a separate builder. The review also verified that the published Docker image (manifest digest `sha256:6ccbbc5b815108fd7ddb9075845aace873744f216133768518a5446c83b30f0f`) matches the audited commit. Previous [report for V8.2.0](#10-2026-mixbytes-off-chain-audit-of-lido-oracle-v820).
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8_3_0%20Security%20Consultation%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
