@@ -1931,13 +1931,13 @@ An audit of the Lido Lend Guardian Daemon SDK, an off-chain TypeScript SDK used 
 
 See [full report](lend/2026-11-9-mixbytes-lido-lend-guardian-daemon-sdk.pdf) for more details.
 
-### 11-2026 Cyfrin Lido Lend Core Deployment Verification
+### 11-2026 Cyfrin Lido Lend Deployment Verification
 
 Verified at deployment commit [`9c0ba34`](https://github.com/lidofinance/lend-markets/tree/9c0ba34580ab5cff4354be8cb701419fb02b65d5) (lend-markets).
 
-Stage 1 verification of 14 Lido Lend core contracts deployed on Ethereum mainnet: runtime bytecode, constructor arguments and immutables against the deployment commit, and alignment of the in-scope sources with [the audited commits](#10-2026-cyfrin-lido-lend-security-audit). The report also covers supplementary bytecode verification of two dependency deployments outside the audit scope, Bundler3 and CircuitBreaker. Stage 2 (market-specific deployments) is pending.
+Stage 1 verification of 14 Lido Lend core contracts deployed on Ethereum mainnet: runtime bytecode, constructor arguments and immutables against the deployment commit, and alignment of the in-scope sources with [the audited commits](#10-2026-cyfrin-lido-lend-security-audit). The report also covers supplementary bytecode verification of two dependency deployments outside the audit scope, Bundler3 and CircuitBreaker. Stage 2 verifies the six WETH/wstETH market deployments (the oracle, GuardianSignals, market controller and ERC-4626 vault proxies, the WstEthRateOracle implementation and AdaptiveCurveConfig), their proxy implementation pointers and market wiring; at the verification block the market was not yet registered on the Lido Lend core.
 
-See [full report](lend/2026-11-11-cyfrin-lido-lend-core-deployment-verification.pdf) for more details.
+See [full report](lend/2026-11-16-cyfrin-lido-lend-deployment-verification.pdf) for more details.
 
 ### 11-2026 MixBytes Lido Lend Easy Track Factories Security Audit
 
